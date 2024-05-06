@@ -1,6 +1,7 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Gameplay.NetworkManagerRace" preserve="all" />
+    <type fullname="RaceReference" preserve="all" />
     <type fullname="UILoading" preserve="all" />
     <type fullname="UILoadingFadingAnimation" preserve="all" />
     <type fullname="UILoadingRace" preserve="all" />
