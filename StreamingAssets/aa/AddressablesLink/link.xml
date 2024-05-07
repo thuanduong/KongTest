@@ -1,6 +1,9 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DriverPath" preserve="all" />
+    <type fullname="FollowTarget" preserve="all" />
     <type fullname="Gameplay.NetworkManagerRace" preserve="all" />
+    <type fullname="Gameplay.PlayerDriver" preserve="all" />
     <type fullname="RaceReference" preserve="all" />
     <type fullname="UILoading" preserve="all" />
     <type fullname="UILoadingFadingAnimation" preserve="all" />
@@ -13,6 +16,7 @@
     <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
     <type fullname="Cinemachine.CinemachineSmoothPath" preserve="all" />
     <type fullname="Cinemachine.CinemachineTrackedDolly" preserve="all" />
+    <type fullname="Cinemachine.CinemachineTransposer" preserve="all" />
     <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
     <type fullname="Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true" />
     <type fullname="Cinemachine.CinemachineBlenderSettings/CustomBlend" preserve="nothing" serialized="true" />
@@ -25,6 +29,7 @@
     <type fullname="Cinemachine.LensSettings" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Mirror, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Mirror.NetworkIdentity" preserve="all" />
     <type fullname="Mirror.NetworkManagerHUD" preserve="all" />
     <type fullname="Mirror.SnapshotInterpolationSettings" preserve="nothing" serialized="true" />
   </assembly>
@@ -80,6 +85,12 @@
   </assembly>
   <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Image" preserve="all" />
