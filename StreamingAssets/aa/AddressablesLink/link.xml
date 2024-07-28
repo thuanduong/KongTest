@@ -128,6 +128,7 @@
     <type fullname="UIPopupUpgrade" preserve="all" />
     <type fullname="UIPopupUpgradeConditionItem" preserve="all" />
     <type fullname="UIPopupUpgradeListConditionItem" preserve="all" />
+    <type fullname="UIPopupUpgradeSkill" preserve="all" />
     <type fullname="UIPopupYesNoMessage" preserve="all" />
     <type fullname="UIProgressBarComponent" preserve="all" />
     <type fullname="UIProgressColorComponent" preserve="all" />
@@ -154,6 +155,9 @@
     <type fullname="UIStableDogForRentItemComponent" preserve="all" />
     <type fullname="UIStableDogForRentListItemComponent" preserve="all" />
     <type fullname="UIStableDogInfoComponent" preserve="all" />
+    <type fullname="UIStableDogItemComponent" preserve="all" />
+    <type fullname="UIStableDogList" preserve="all" />
+    <type fullname="UIStableDogListItemComponent" preserve="all" />
     <type fullname="UIStableDogRental" preserve="all" />
     <type fullname="UIStableDogView" preserve="all" />
     <type fullname="UIStableLeaseInfoComponent" preserve="all" />
@@ -162,6 +166,7 @@
     <type fullname="UIStableRentalListItemComponent" preserve="all" />
     <type fullname="UIStableSkillComponent" preserve="all" />
     <type fullname="UIStableSkillListComponent" preserve="all" />
+    <type fullname="UIStableSkillView" preserve="all" />
     <type fullname="UIStableSkinComponent" preserve="all" />
     <type fullname="UIStableSkinListComponent" preserve="all" />
     <type fullname="UIStableUpgrade" preserve="all" />
