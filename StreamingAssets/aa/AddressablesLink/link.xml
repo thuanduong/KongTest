@@ -1,6 +1,5 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AIBrainProcesses" preserve="all" />
     <type fullname="AIDogManager" preserve="all" />
     <type fullname="AudioComponent" preserve="all" />
     <type fullname="BananaLauncher" preserve="all" />
@@ -43,6 +42,7 @@
     <type fullname="ManagerDogPVE" preserve="all" />
     <type fullname="ManagerFinishZone" preserve="all" />
     <type fullname="ManagerScore" preserve="all" />
+    <type fullname="ManagerSpawn" preserve="all" />
     <type fullname="MapController" preserve="all" />
     <type fullname="MetaMask.Unity.Samples.ButtonEffect" preserve="all" />
     <type fullname="MetaMask.Unity.Samples.MetaMaskDemo" preserve="all" />
@@ -57,8 +57,10 @@
     <type fullname="OctopusEffect" preserve="all" />
     <type fullname="PlayerAnimation" preserve="all" />
     <type fullname="PlayerEffect" preserve="all" />
+    <type fullname="PlayerIcon" preserve="all" />
     <type fullname="PlayerInfo" preserve="all" />
     <type fullname="PlayerInput" preserve="all" />
+    <type fullname="PlayerModels" preserve="all" />
     <type fullname="PlayerMovement" preserve="all" />
     <type fullname="PlayerUI" preserve="all" />
     <type fullname="PlayerWinner" preserve="all" />
@@ -93,6 +95,7 @@
     <type fullname="UIChargingListDock" preserve="all" />
     <type fullname="UIChooseDogDetail" preserve="all" />
     <type fullname="UIComponentCountDownTimer" preserve="all" />
+    <type fullname="UIComponentCountTimer" preserve="all" />
     <type fullname="UIDebugRealtimeServer" preserve="all" />
     <type fullname="UIElementAnimationDefault" preserve="all" />
     <type fullname="UIForgotPasswordComponent" preserve="all" />
@@ -112,8 +115,11 @@
     <type fullname="UIMultiplayerInRoom" preserve="all" />
     <type fullname="UIPlayerInput" preserve="all" />
     <type fullname="UIPlayerInputMobile" preserve="all" />
+    <type fullname="UIPopUpAnimation" preserve="all" />
+    <type fullname="UIPopUpAnimationSlideIn" preserve="all" />
     <type fullname="UIPopupChargeForRent" preserve="all" />
     <type fullname="UIPopupCharging" preserve="all" />
+    <type fullname="UIPopupDogForRent" preserve="all" />
     <type fullname="UIPopupError" preserve="all" />
     <type fullname="UIPopupInfoDog" preserve="all" />
     <type fullname="UIPopupMessage" preserve="all" />
@@ -174,6 +180,7 @@
     <type fullname="UIStartRacing" preserve="all" />
     <type fullname="UIToggleComponent" preserve="all" />
     <type fullname="UIWaiting" preserve="all" />
+    <type fullname="UIWaitingAnimation" preserve="all" />
     <type fullname="AudioComponent/MusicTrack" preserve="nothing" serialized="true" />
     <type fullname="AudioComponent/Sound" preserve="nothing" serialized="true" />
     <type fullname="UIPlayerInputDesktop" preserve="nothing" serialized="true" />
@@ -240,6 +247,7 @@
     <type fullname="UnityEngine.Rendering.PostProcessing.FastApproximateAntialiasing" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.FloatParameter" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.Fog" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.GradingModeParameter" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.HistogramMonitor" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.LightMeterMonitor" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessDebugLayer" preserve="nothing" serialized="true" />
@@ -247,16 +255,15 @@
     <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/ComputeShaders" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/SMAALuts" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.PostProcessResources/Shaders" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.Spline" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.SplineParameter" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.SubpixelMorphologicalAntialiasing" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.TemporalAntialiasing" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.TextureParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.PostProcessing.VectorscopeMonitor" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.PostProcessing.WaveformMonitor" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.PostProcessing.GradingModeParameter" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.PostProcessing.Spline" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Rendering.PostProcessing.SplineParameter" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.TonemapperParameter" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Rendering.PostProcessing.Vector4Parameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.VectorscopeMonitor" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.PostProcessing.WaveformMonitor" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
