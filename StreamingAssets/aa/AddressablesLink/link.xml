@@ -7,6 +7,7 @@
     <type fullname="RoadCrossing.RCGBlock" preserve="all" />
     <type fullname="RoadCrossing.RCGBlockMoving" preserve="all" />
     <type fullname="RoadCrossing.RCGLane" preserve="all" />
+    <type fullname="RoadCrossing.RCGLineColor" preserve="all" />
     <type fullname="RoadCrossing.RCGRandomizeColor" preserve="all" />
     <type fullname="RoadCrossing.RCGRandomizeTransform" preserve="all" />
     <type fullname="ThemeAsset" preserve="all" />
