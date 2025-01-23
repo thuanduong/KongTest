@@ -25,15 +25,6 @@
     <script>
       const hideFullScreenButton = "";
 	  
-	  var dataFile = "/WebGL_Mobile.data";                                  
-      var c = document.createElement("canvas");                                 
-      var gl = c.getContext("webgl");                                      
-      var gl2 = c.getContext("webgl2");                                    
-      if ((gl && gl.getExtension('WEBGL_compressed_texture_astc')) || (gl2 &&   
-              gl2.getExtension('WEBGL_compressed_texutre_astc'))) {             
-        dataFile =  "/WebGL_Mobile.data";                                       
-      }    
-	  
       const buildUrl = "Build";
       const loaderUrl = buildUrl + "/WebGL_Mobile.loader.js";
       const config = {
