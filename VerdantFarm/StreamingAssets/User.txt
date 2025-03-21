@@ -1,0 +1,109 @@
+{
+  "currency": "VCoin",
+  "balance": 1000000.0,
+  "exp": 0,
+  "user_name": "demo",
+  "language": 0,
+  "level": 3,
+  "done_tutorials": false,
+  "user_crop": [
+   {
+      "_id": "1111",
+      "crop_id": "1",
+      "count": 0,
+      "created_at": ""
+    },
+    {
+      "_id": "8668",
+      "crop_id": "2",
+      "count": 0,
+      "created_at": ""
+    },
+    {
+      "_id": "4673aa",
+      "crop_id": "3",
+      "count": 0,
+      "created_at": ""
+    },
+    {
+      "_id": "asdsafgafra",
+      "crop_id": "4",
+      "count": 0,
+      "created_at": ""
+    },
+    {
+      "_id": "sadsadasw4523",
+      "crop_id": "5",
+      "count": 0,
+      "created_at": ""
+    },
+    {
+      "_id": "sadsadasw4523",
+      "crop_id": "6",
+      "count": 0,
+      "created_at": ""
+    },
+    {
+      "_id": "sadsadasw4523",
+      "crop_id": "7",
+      "count": 0,
+      "created_at": ""
+    }
+  ],
+  "user_product": [
+    
+  ],
+  "user_marerials": [
+    {
+      "_id": "111121",
+      "materials_id": "11",
+      "amount": 0.0,
+      "created_at": ""
+    },
+    {
+      "_id": "qwewq",
+      "materials_id": "12",
+      "amount": 0.0,
+      "created_at": ""
+    },
+    {
+      "_id": "dsdfsdfsdfs",
+      "materials_id": "13",
+      "amount": 0.0,
+      "created_at": ""
+    },
+    {
+      "_id": "dsdfsdasdsadsadasfsdfs",
+      "materials_id": "14",
+      "amount": 0.0,
+      "created_at": ""
+    }
+  ],
+  "user_ingredients": [
+    {
+      "_id": "aa01cca9-b4ea-44e1-9867-8ac23462c4a4",
+      "ingredients_id": "9",
+      "amount": 0.0,
+      "created_at": "7/31/2024 3:56:29 AM"
+    },
+    {
+      "_id": "00687ad0-1a7a-4725-b3d1-e0cad3ad0c98",
+      "ingredients_id": "10",
+      "amount": 0.0,
+      "created_at": "7/31/2024 8:10:59 AM"
+    }
+  ],
+  "user_skins_id": [
+  ],
+  "user_quests": [
+    {
+      "fk_quest_id": "0",
+      "amount": 0.0,
+      "status": "active",
+      "created_at": "",
+      "done_at": ""
+    }
+  ],
+  "skin": {
+  }
+}

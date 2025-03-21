@@ -1,0 +1,1574 @@
+{
+  "profile": {
+    "name": "messi11",
+    "balance": 116676,
+    "exp": 14160,
+    "level": 22
+  },
+  "buildInfo": [
+    {
+      "id": 673,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 13,
+      "tileY": 22,
+      "crop": null,
+      "timeCreated": 1740287152916
+    },
+    {
+      "id": 670,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 13,
+      "tileY": 27,
+      "crop": null,
+      "timeCreated": 1740285437175
+    },
+    {
+      "id": 674,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 14,
+      "tileY": 19,
+      "crop": null,
+      "timeCreated": 1740287158932
+    },
+    {
+      "id": 663,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 20,
+      "tileY": 17,
+      "crop": null,
+      "timeCreated": 1740217373558
+    },
+    {
+      "id": 662,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 22,
+      "tileY": 13,
+      "crop": null,
+      "timeCreated": 1740217366381
+    },
+    {
+      "id": 669,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 23,
+      "tileY": 29,
+      "crop": null,
+      "timeCreated": 1740285430467
+    },
+    {
+      "id": 649,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 33,
+      "tileY": 26,
+      "crop": null,
+      "timeCreated": 1740201825290
+    },
+    {
+      "id": 648,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 34,
+      "tileY": 26,
+      "crop": null,
+      "timeCreated": 1740201820803
+    },
+    {
+      "id": 668,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 34,
+      "tileY": 33,
+      "crop": null,
+      "timeCreated": 1740283727096
+    },
+    {
+      "id": 1736,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 1,
+      "tileX": 35,
+      "tileY": 34,
+      "crop": null,
+      "timeCreated": 1741159324201
+    },
+    {
+      "id": 671,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 1,
+      "tileX": 35,
+      "tileY": 35,
+      "crop": null,
+      "timeCreated": 1740286130581
+    },
+    {
+      "id": 664,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 36,
+      "tileY": 25,
+      "crop": null,
+      "timeCreated": 1740287744243
+    },
+    {
+      "id": 661,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 36,
+      "tileY": 26,
+      "crop": null,
+      "timeCreated": 1740287602997
+    },
+    {
+      "id": 665,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 36,
+      "tileY": 27,
+      "crop": null,
+      "timeCreated": 1740287596934
+    },
+    {
+      "id": 647,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 36,
+      "tileY": 30,
+      "crop": null,
+      "timeCreated": 1740287644289
+    },
+    {
+      "id": 646,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 36,
+      "tileY": 31,
+      "crop": null,
+      "timeCreated": 1740287655910
+    },
+    {
+      "id": 645,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 36,
+      "tileY": 32,
+      "crop": null,
+      "timeCreated": 1740287650055
+    },
+    {
+      "id": 654,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 1,
+      "tileX": 36,
+      "tileY": 34,
+      "crop": null,
+      "timeCreated": 1741159318508
+    },
+    {
+      "id": 1734,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 1,
+      "tileX": 36,
+      "tileY": 35,
+      "crop": null,
+      "timeCreated": 1741159195715
+    },
+    {
+      "id": 759,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 37,
+      "tileY": 22,
+      "crop": null,
+      "timeCreated": 1740365979457
+    },
+    {
+      "id": 766,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 37,
+      "tileY": 23,
+      "crop": null,
+      "timeCreated": 1740366024093
+    },
+    {
+      "id": 765,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 37,
+      "tileY": 24,
+      "crop": null,
+      "timeCreated": 1740366016973
+    },
+    {
+      "id": 660,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 37,
+      "tileY": 25,
+      "crop": null,
+      "timeCreated": 1740287749223
+    },
+    {
+      "id": 666,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 37,
+      "tileY": 26,
+      "crop": null,
+      "timeCreated": 1740544481620
+    },
+    {
+      "id": 667,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 37,
+      "tileY": 27,
+      "crop": null,
+      "timeCreated": 1740544487206
+    },
+    {
+      "id": 769,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 37,
+      "tileY": 28,
+      "crop": null,
+      "timeCreated": 1740366726600
+    },
+    {
+      "id": 676,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 37,
+      "tileY": 29,
+      "crop": null,
+      "timeCreated": 1740288166955
+    },
+    {
+      "id": 652,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 37,
+      "tileY": 30,
+      "crop": null,
+      "timeCreated": 1740288149879
+    },
+    {
+      "id": 650,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 37,
+      "tileY": 31,
+      "crop": null,
+      "timeCreated": 1740201832210
+    },
+    {
+      "id": 403,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 37,
+      "tileY": 32,
+      "crop": null,
+      "timeCreated": 1741159340604
+    },
+    {
+      "id": 375,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 1,
+      "tileX": 37,
+      "tileY": 34,
+      "crop": null,
+      "timeCreated": 1740131546097
+    },
+    {
+      "id": 655,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 1,
+      "tileX": 37,
+      "tileY": 35,
+      "crop": null,
+      "timeCreated": 1740205666895
+    },
+    {
+      "id": 767,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 38,
+      "tileY": 21,
+      "crop": null,
+      "timeCreated": 1740366056361
+    },
+    {
+      "id": 760,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 38,
+      "tileY": 22,
+      "crop": null,
+      "timeCreated": 1740365984712
+    },
+    {
+      "id": 768,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 38,
+      "tileY": 23,
+      "crop": null,
+      "timeCreated": 1741853498817
+    },
+    {
+      "id": 764,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 38,
+      "tileY": 24,
+      "crop": null,
+      "timeCreated": 1740366009023
+    },
+    {
+      "id": 659,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 38,
+      "tileY": 25,
+      "crop": null,
+      "timeCreated": 1740287840801
+    },
+    {
+      "id": 658,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 38,
+      "tileY": 26,
+      "crop": null,
+      "timeCreated": 1740287971585
+    },
+    {
+      "id": 657,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 38,
+      "tileY": 27,
+      "crop": null,
+      "timeCreated": 1740287976298
+    },
+    {
+      "id": 750,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 38,
+      "tileY": 28,
+      "crop": null,
+      "timeCreated": 1741159209167
+    },
+    {
+      "id": 749,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 38,
+      "tileY": 29,
+      "crop": null,
+      "timeCreated": 1741159214204
+    },
+    {
+      "id": 653,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 38,
+      "tileY": 30,
+      "crop": null,
+      "timeCreated": 1741853485384
+    },
+    {
+      "id": 651,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 38,
+      "tileY": 31,
+      "crop": null,
+      "timeCreated": 1740201837008
+    },
+    {
+      "id": 644,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 38,
+      "tileY": 32,
+      "crop": null,
+      "timeCreated": 1740199400252
+    },
+    {
+      "id": 1716,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 38,
+      "tileY": 35,
+      "crop": null,
+      "timeCreated": 1740985999373
+    },
+    {
+      "id": 761,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 39,
+      "tileY": 22,
+      "crop": null,
+      "timeCreated": 1740365990021
+    },
+    {
+      "id": 762,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 39,
+      "tileY": 23,
+      "crop": null,
+      "timeCreated": 1740365995808
+    },
+    {
+      "id": 763,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 2,
+      "tileX": 39,
+      "tileY": 24,
+      "crop": null,
+      "timeCreated": 1740366003337
+    },
+    {
+      "id": 882,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 39,
+      "tileY": 28,
+      "crop": null,
+      "timeCreated": 1741159204519
+    },
+    {
+      "id": 1735,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 42,
+      "tileY": 28,
+      "crop": null,
+      "timeCreated": 1741159301022
+    },
+    {
+      "id": 1732,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 42,
+      "tileY": 29,
+      "crop": null,
+      "timeCreated": 1741159306008
+    },
+    {
+      "id": 656,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 42,
+      "tileY": 30,
+      "crop": null,
+      "timeCreated": 1741159301141
+    },
+    {
+      "id": 930,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 42,
+      "tileY": 31,
+      "crop": null,
+      "timeCreated": 1740641337007
+    },
+    {
+      "id": 887,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 42,
+      "tileY": 32,
+      "crop": null,
+      "timeCreated": 1741142369681
+    },
+    {
+      "id": 888,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 42,
+      "tileY": 33,
+      "crop": null,
+      "timeCreated": 1741142387661
+    },
+    {
+      "id": 1727,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 42,
+      "tileY": 34,
+      "crop": null,
+      "timeCreated": 1741142392428
+    },
+    {
+      "id": 1728,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 42,
+      "tileY": 35,
+      "crop": null,
+      "timeCreated": 1741142397272
+    },
+    {
+      "id": 1729,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 42,
+      "tileY": 36,
+      "crop": null,
+      "timeCreated": 1741142401977
+    },
+    {
+      "id": 1730,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 42,
+      "tileY": 37,
+      "crop": null,
+      "timeCreated": 1741142406686
+    },
+    {
+      "id": 1731,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 42,
+      "tileY": 38,
+      "crop": null,
+      "timeCreated": 1741142413626
+    },
+    {
+      "id": 681,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 43,
+      "tileY": 25,
+      "crop": null,
+      "timeCreated": 1741159148279
+    },
+    {
+      "id": 679,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 43,
+      "tileY": 26,
+      "crop": null,
+      "timeCreated": 1740290068371
+    },
+    {
+      "id": 1725,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 43,
+      "tileY": 31,
+      "crop": null,
+      "timeCreated": 1741142376975
+    },
+    {
+      "id": 754,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 44,
+      "tileY": 23,
+      "crop": null,
+      "timeCreated": 1740365961443
+    },
+    {
+      "id": 753,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 44,
+      "tileY": 24,
+      "crop": null,
+      "timeCreated": 1740365965797
+    },
+    {
+      "id": 680,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 44,
+      "tileY": 25,
+      "crop": null,
+      "timeCreated": 1741159236510
+    },
+    {
+      "id": 678,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 44,
+      "tileY": 26,
+      "crop": null,
+      "timeCreated": 1741159231234
+    },
+    {
+      "id": 1726,
+      "player_id": 176,
+      "atlas": 10,
+      "index": 10,
+      "tileX": 44,
+      "tileY": 31,
+      "crop": null,
+      "timeCreated": 1741159496666
+    },
+    {
+      "id": 755,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 45,
+      "tileY": 23,
+      "crop": null,
+      "timeCreated": 1740365957243
+    },
+    {
+      "id": 758,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 45,
+      "tileY": 24,
+      "crop": null,
+      "timeCreated": 1741159251330
+    },
+    {
+      "id": 752,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 45,
+      "tileY": 25,
+      "crop": null,
+      "timeCreated": 1741159246477
+    },
+    {
+      "id": 677,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 45,
+      "tileY": 26,
+      "crop": null,
+      "timeCreated": 1741159242070
+    },
+    {
+      "id": 756,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 46,
+      "tileY": 23,
+      "crop": null,
+      "timeCreated": 1740365952211
+    },
+    {
+      "id": 402,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 46,
+      "tileY": 24,
+      "crop": null,
+      "timeCreated": 1741159255635
+    },
+    {
+      "id": 757,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 46,
+      "tileY": 25,
+      "crop": null,
+      "timeCreated": 1741159261070
+    },
+    {
+      "id": 675,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 46,
+      "tileY": 26,
+      "crop": null,
+      "timeCreated": 1741159266642
+    },
+    {
+      "id": 672,
+      "player_id": 176,
+      "atlas": 1,
+      "index": 0,
+      "tileX": 49,
+      "tileY": 20,
+      "crop": null,
+      "timeCreated": 1740287127524
+    }
+  ],
+  "itemInfo": {
+    "items": [
+      {
+        "id": 358,
+        "itemIdx": 20,
+        "amount": 300
+      },
+      {
+        "id": 387,
+        "itemIdx": 12,
+        "amount": 279
+      },
+      {
+        "id": 388,
+        "itemIdx": 11,
+        "amount": 2222
+      },
+      {
+        "id": 389,
+        "itemIdx": 6,
+        "amount": 89
+      },
+      {
+        "id": 390,
+        "itemIdx": 9,
+        "amount": 28
+      },
+      {
+        "id": 391,
+        "itemIdx": 21,
+        "amount": 300
+      },
+      {
+        "id": 392,
+        "itemIdx": 13,
+        "amount": 302
+      },
+      {
+        "id": 393,
+        "itemIdx": 1,
+        "amount": 301
+      },
+      {
+        "id": 394,
+        "itemIdx": 3,
+        "amount": 110
+      },
+      {
+        "id": 395,
+        "itemIdx": 18,
+        "amount": 290
+      },
+      {
+        "id": 396,
+        "itemIdx": 19,
+        "amount": 178
+      },
+      {
+        "id": 397,
+        "itemIdx": 17,
+        "amount": 248
+      },
+      {
+        "id": 398,
+        "itemIdx": 16,
+        "amount": 4
+      },
+      {
+        "id": 535,
+        "itemIdx": 14,
+        "amount": 19
+      },
+      {
+        "id": 536,
+        "itemIdx": 15,
+        "amount": 4
+      },
+      {
+        "id": 537,
+        "itemIdx": 5,
+        "amount": 153
+      },
+      {
+        "id": 539,
+        "itemIdx": 2,
+        "amount": 0
+      },
+      {
+        "id": 540,
+        "itemIdx": 10,
+        "amount": 6
+      },
+      {
+        "id": 877,
+        "itemIdx": 7,
+        "amount": 60
+      },
+      {
+        "id": 878,
+        "itemIdx": 8,
+        "amount": 20
+      }
+    ]
+  },
+  "mainQuestInfo": {
+    "questIdx": 35,
+    "name": "Sell 20 Chicken Egg ",
+    "description": "Sell 20 Chicken Egg ",
+    "progress": 0,
+    "goal": 20,
+    "status": 0,
+    "reward": null
+  },
+  "sideQuestInfo": [],
+  "playerEventInfoDto": {
+    "zodiacBuyHistory": [
+      {
+        "id": 3,
+        "bath": 1,
+        "zodiac_id": 1,
+        "buyDate": 1741061305188
+      },
+      {
+        "id": 4,
+        "bath": 1,
+        "zodiac_id": 2,
+        "buyDate": 1741071182839
+      },
+      {
+        "id": 5,
+        "bath": 1,
+        "zodiac_id": 3,
+        "buyDate": 1741075675958
+      },
+      {
+        "id": 6,
+        "bath": 1,
+        "zodiac_id": 4,
+        "buyDate": 1741076310791
+      },
+      {
+        "id": 7,
+        "bath": 1,
+        "zodiac_id": 5,
+        "buyDate": 1741077240544
+      },
+      {
+        "id": 8,
+        "bath": 1,
+        "zodiac_id": 6,
+        "buyDate": 1741077387549
+      },
+      {
+        "id": 9,
+        "bath": 1,
+        "zodiac_id": 7,
+        "buyDate": 1741164114686
+      },
+      {
+        "id": 10,
+        "bath": 1,
+        "zodiac_id": 8,
+        "buyDate": 1741253262176
+      },
+      {
+        "id": 31,
+        "bath": 1,
+        "zodiac_id": 9,
+        "buyDate": 1741344549750
+      },
+      {
+        "id": 32,
+        "bath": 1,
+        "zodiac_id": 12,
+        "buyDate": 1741344852409
+      },
+      {
+        "id": 33,
+        "bath": 1,
+        "zodiac_id": 11,
+        "buyDate": 1741344874872
+      },
+      {
+        "id": 34,
+        "bath": 1,
+        "zodiac_id": 10,
+        "buyDate": 1741344880999
+      }
+    ],
+    "zodiacRewardHistory": [
+      {
+        "id": 15,
+        "bath": 1,
+        "zodiac_id": 1,
+        "rewarded": 3,
+        "date": 1741147705222
+      },
+      {
+        "id": 16,
+        "bath": 1,
+        "zodiac_id": 1,
+        "rewarded": 1,
+        "date": 1741234105231
+      },
+      {
+        "id": 17,
+        "bath": 1,
+        "zodiac_id": 1,
+        "rewarded": 3,
+        "date": 1741320505236
+      },
+      {
+        "id": 18,
+        "bath": 1,
+        "zodiac_id": 1,
+        "rewarded": 3,
+        "date": 1741406905240
+      },
+      {
+        "id": 19,
+        "bath": 1,
+        "zodiac_id": 1,
+        "rewarded": 3,
+        "date": 1741493305245
+      },
+      {
+        "id": 20,
+        "bath": 1,
+        "zodiac_id": 1,
+        "rewarded": 3,
+        "date": 1741579705249
+      },
+      {
+        "id": 21,
+        "bath": 1,
+        "zodiac_id": 1,
+        "rewarded": 1,
+        "date": 1741666105254
+      },
+      {
+        "id": 22,
+        "bath": 1,
+        "zodiac_id": 2,
+        "rewarded": 3,
+        "date": 1741157582882
+      },
+      {
+        "id": 23,
+        "bath": 1,
+        "zodiac_id": 2,
+        "rewarded": 3,
+        "date": 1741243982891
+      },
+      {
+        "id": 24,
+        "bath": 1,
+        "zodiac_id": 2,
+        "rewarded": 1,
+        "date": 1741330382895
+      },
+      {
+        "id": 25,
+        "bath": 1,
+        "zodiac_id": 2,
+        "rewarded": 3,
+        "date": 1741416782900
+      },
+      {
+        "id": 26,
+        "bath": 1,
+        "zodiac_id": 2,
+        "rewarded": 3,
+        "date": 1741503182904
+      },
+      {
+        "id": 27,
+        "bath": 1,
+        "zodiac_id": 2,
+        "rewarded": 3,
+        "date": 1741589582908
+      },
+      {
+        "id": 28,
+        "bath": 1,
+        "zodiac_id": 2,
+        "rewarded": 1,
+        "date": 1741675982912
+      },
+      {
+        "id": 29,
+        "bath": 1,
+        "zodiac_id": 3,
+        "rewarded": 3,
+        "date": 1741162075983
+      },
+      {
+        "id": 30,
+        "bath": 1,
+        "zodiac_id": 3,
+        "rewarded": 2,
+        "date": 1741248475991
+      },
+      {
+        "id": 31,
+        "bath": 1,
+        "zodiac_id": 3,
+        "rewarded": 1,
+        "date": 1741334875997
+      },
+      {
+        "id": 32,
+        "bath": 1,
+        "zodiac_id": 3,
+        "rewarded": 3,
+        "date": 1741421276003
+      },
+      {
+        "id": 33,
+        "bath": 1,
+        "zodiac_id": 3,
+        "rewarded": 3,
+        "date": 1741507676008
+      },
+      {
+        "id": 34,
+        "bath": 1,
+        "zodiac_id": 3,
+        "rewarded": 1,
+        "date": 1741594076013
+      },
+      {
+        "id": 35,
+        "bath": 1,
+        "zodiac_id": 3,
+        "rewarded": 1,
+        "date": 1741680476018
+      },
+      {
+        "id": 36,
+        "bath": 1,
+        "zodiac_id": 4,
+        "rewarded": 3,
+        "date": 1741162710804
+      },
+      {
+        "id": 37,
+        "bath": 1,
+        "zodiac_id": 4,
+        "rewarded": 3,
+        "date": 1741249110809
+      },
+      {
+        "id": 38,
+        "bath": 1,
+        "zodiac_id": 4,
+        "rewarded": 1,
+        "date": 1741335510815
+      },
+      {
+        "id": 39,
+        "bath": 1,
+        "zodiac_id": 4,
+        "rewarded": 3,
+        "date": 1741421910821
+      },
+      {
+        "id": 40,
+        "bath": 1,
+        "zodiac_id": 4,
+        "rewarded": 3,
+        "date": 1741508310825
+      },
+      {
+        "id": 41,
+        "bath": 1,
+        "zodiac_id": 4,
+        "rewarded": 1,
+        "date": 1741594710830
+      },
+      {
+        "id": 42,
+        "bath": 1,
+        "zodiac_id": 4,
+        "rewarded": 1,
+        "date": 1741681110835
+      },
+      {
+        "id": 43,
+        "bath": 1,
+        "zodiac_id": 5,
+        "rewarded": 3,
+        "date": 1741163640556
+      },
+      {
+        "id": 44,
+        "bath": 1,
+        "zodiac_id": 5,
+        "rewarded": 3,
+        "date": 1741250040563
+      },
+      {
+        "id": 45,
+        "bath": 1,
+        "zodiac_id": 5,
+        "rewarded": 1,
+        "date": 1741336440569
+      },
+      {
+        "id": 46,
+        "bath": 1,
+        "zodiac_id": 5,
+        "rewarded": 3,
+        "date": 1741422840575
+      },
+      {
+        "id": 47,
+        "bath": 1,
+        "zodiac_id": 5,
+        "rewarded": 3,
+        "date": 1741509240580
+      },
+      {
+        "id": 48,
+        "bath": 1,
+        "zodiac_id": 5,
+        "rewarded": 1,
+        "date": 1741595640586
+      },
+      {
+        "id": 49,
+        "bath": 1,
+        "zodiac_id": 5,
+        "rewarded": 1,
+        "date": 1741682040591
+      },
+      {
+        "id": 50,
+        "bath": 1,
+        "zodiac_id": 6,
+        "rewarded": 3,
+        "date": 1741163787560
+      },
+      {
+        "id": 51,
+        "bath": 1,
+        "zodiac_id": 6,
+        "rewarded": 1,
+        "date": 1741250187565
+      },
+      {
+        "id": 52,
+        "bath": 1,
+        "zodiac_id": 6,
+        "rewarded": 1,
+        "date": 1741336587570
+      },
+      {
+        "id": 53,
+        "bath": 1,
+        "zodiac_id": 6,
+        "rewarded": 3,
+        "date": 1741422987576
+      },
+      {
+        "id": 54,
+        "bath": 1,
+        "zodiac_id": 6,
+        "rewarded": 3,
+        "date": 1741509387581
+      },
+      {
+        "id": 55,
+        "bath": 1,
+        "zodiac_id": 6,
+        "rewarded": 1,
+        "date": 1741595787585
+      },
+      {
+        "id": 56,
+        "bath": 1,
+        "zodiac_id": 6,
+        "rewarded": 1,
+        "date": 1741682187590
+      },
+      {
+        "id": 57,
+        "bath": 1,
+        "zodiac_id": 7,
+        "rewarded": 1,
+        "date": 1741250514780
+      },
+      {
+        "id": 58,
+        "bath": 1,
+        "zodiac_id": 7,
+        "rewarded": 1,
+        "date": 1741336914818
+      },
+      {
+        "id": 59,
+        "bath": 1,
+        "zodiac_id": 7,
+        "rewarded": 3,
+        "date": 1741423314848
+      },
+      {
+        "id": 60,
+        "bath": 1,
+        "zodiac_id": 7,
+        "rewarded": 3,
+        "date": 1741509714881
+      },
+      {
+        "id": 61,
+        "bath": 1,
+        "zodiac_id": 7,
+        "rewarded": 1,
+        "date": 1741596114917
+      },
+      {
+        "id": 62,
+        "bath": 1,
+        "zodiac_id": 7,
+        "rewarded": 1,
+        "date": 1741682514953
+      },
+      {
+        "id": 63,
+        "bath": 1,
+        "zodiac_id": 7,
+        "rewarded": 3,
+        "date": 1741768914987
+      },
+      {
+        "id": 64,
+        "bath": 1,
+        "zodiac_id": 8,
+        "rewarded": 1,
+        "date": 1741339662254
+      },
+      {
+        "id": 65,
+        "bath": 1,
+        "zodiac_id": 8,
+        "rewarded": 3,
+        "date": 1741426062259
+      },
+      {
+        "id": 66,
+        "bath": 1,
+        "zodiac_id": 8,
+        "rewarded": 3,
+        "date": 1741512462269
+      },
+      {
+        "id": 67,
+        "bath": 1,
+        "zodiac_id": 8,
+        "rewarded": 1,
+        "date": 1741598862273
+      },
+      {
+        "id": 68,
+        "bath": 1,
+        "zodiac_id": 8,
+        "rewarded": 1,
+        "date": 1741685262277
+      },
+      {
+        "id": 69,
+        "bath": 1,
+        "zodiac_id": 8,
+        "rewarded": 3,
+        "date": 1741771662282
+      },
+      {
+        "id": 70,
+        "bath": 1,
+        "zodiac_id": 8,
+        "rewarded": 1,
+        "date": 1741858062287
+      },
+      {
+        "id": 211,
+        "bath": 1,
+        "zodiac_id": 9,
+        "rewarded": 3,
+        "date": 1741430949757
+      },
+      {
+        "id": 212,
+        "bath": 1,
+        "zodiac_id": 9,
+        "rewarded": 3,
+        "date": 1741517349760
+      },
+      {
+        "id": 213,
+        "bath": 1,
+        "zodiac_id": 9,
+        "rewarded": 3,
+        "date": 1741603749763
+      },
+      {
+        "id": 214,
+        "bath": 1,
+        "zodiac_id": 9,
+        "rewarded": 3,
+        "date": 1741690149766
+      },
+      {
+        "id": 215,
+        "bath": 1,
+        "zodiac_id": 9,
+        "rewarded": 3,
+        "date": 1741776549768
+      },
+      {
+        "id": 216,
+        "bath": 1,
+        "zodiac_id": 9,
+        "rewarded": 3,
+        "date": 1741862949773
+      },
+      {
+        "id": 217,
+        "bath": 1,
+        "zodiac_id": 9,
+        "rewarded": 0,
+        "date": 1741949349779
+      },
+      {
+        "id": 218,
+        "bath": 1,
+        "zodiac_id": 12,
+        "rewarded": 3,
+        "date": 1741431252420
+      },
+      {
+        "id": 219,
+        "bath": 1,
+        "zodiac_id": 12,
+        "rewarded": 3,
+        "date": 1741517652425
+      },
+      {
+        "id": 220,
+        "bath": 1,
+        "zodiac_id": 12,
+        "rewarded": 1,
+        "date": 1741604052429
+      },
+      {
+        "id": 221,
+        "bath": 1,
+        "zodiac_id": 12,
+        "rewarded": 1,
+        "date": 1741690452433
+      },
+      {
+        "id": 222,
+        "bath": 1,
+        "zodiac_id": 12,
+        "rewarded": 3,
+        "date": 1741776852438
+      },
+      {
+        "id": 223,
+        "bath": 1,
+        "zodiac_id": 12,
+        "rewarded": 3,
+        "date": 1741863252442
+      },
+      {
+        "id": 224,
+        "bath": 1,
+        "zodiac_id": 12,
+        "rewarded": 0,
+        "date": 1741949652446
+      },
+      {
+        "id": 225,
+        "bath": 1,
+        "zodiac_id": 11,
+        "rewarded": 3,
+        "date": 1741431274878
+      },
+      {
+        "id": 226,
+        "bath": 1,
+        "zodiac_id": 11,
+        "rewarded": 3,
+        "date": 1741517674881
+      },
+      {
+        "id": 227,
+        "bath": 1,
+        "zodiac_id": 11,
+        "rewarded": 1,
+        "date": 1741604074884
+      },
+      {
+        "id": 228,
+        "bath": 1,
+        "zodiac_id": 11,
+        "rewarded": 3,
+        "date": 1741690474886
+      },
+      {
+        "id": 229,
+        "bath": 1,
+        "zodiac_id": 11,
+        "rewarded": 3,
+        "date": 1741776874889
+      },
+      {
+        "id": 230,
+        "bath": 1,
+        "zodiac_id": 11,
+        "rewarded": 3,
+        "date": 1741863274892
+      },
+      {
+        "id": 231,
+        "bath": 1,
+        "zodiac_id": 11,
+        "rewarded": 0,
+        "date": 1741949674895
+      },
+      {
+        "id": 232,
+        "bath": 1,
+        "zodiac_id": 10,
+        "rewarded": 3,
+        "date": 1741431281006
+      },
+      {
+        "id": 233,
+        "bath": 1,
+        "zodiac_id": 10,
+        "rewarded": 3,
+        "date": 1741517681010
+      },
+      {
+        "id": 234,
+        "bath": 1,
+        "zodiac_id": 10,
+        "rewarded": 1,
+        "date": 1741604081013
+      },
+      {
+        "id": 235,
+        "bath": 1,
+        "zodiac_id": 10,
+        "rewarded": 3,
+        "date": 1741690481016
+      },
+      {
+        "id": 236,
+        "bath": 1,
+        "zodiac_id": 10,
+        "rewarded": 3,
+        "date": 1741776881019
+      },
+      {
+        "id": 237,
+        "bath": 1,
+        "zodiac_id": 10,
+        "rewarded": 3,
+        "date": 1741863281022
+      },
+      {
+        "id": 238,
+        "bath": 1,
+        "zodiac_id": 10,
+        "rewarded": 0,
+        "date": 1741949681025
+      }
+    ],
+    "zodiacDoubleHistory": [
+      {
+        "id": 1,
+        "bath": 1,
+        "zodiac_id": 5,
+        "date": 1741187004000
+      },
+      {
+        "id": 2,
+        "bath": 1,
+        "zodiac_id": 3,
+        "date": 1741261226000
+      }
+    ]
+  }
+}

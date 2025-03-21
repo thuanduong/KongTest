@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3845440753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebfc0f49d82ed616ad7a52018cf3b0b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ebfc0f49d82ed616ad7a52018cf3b0b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Nichietsu/Resources/assetbundle_2/Avatar/F1.png
+- Assets/Nichietsu/Resources/assetbundle_2/Avatar/M1.png
+- Assets/Nichietsu/Resources/assetbundle_2/Avatar/M3.png
+- Assets/Nichietsu/Resources/assetbundle_2/Avatar/F3.png
+- Assets/Nichietsu/Resources/assetbundle_2/Avatar/M2.png
+- Assets/Nichietsu/Resources/assetbundle_2/Avatar/F2.png
+Dependencies: []

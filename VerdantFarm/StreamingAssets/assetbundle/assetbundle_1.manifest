@@ -1,0 +1,362 @@
+ManifestFileVersion: 0
+CRC: 3392214283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 940f9fabc69697600af20796cacc85c3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fcdc7d6ad3cacae617028485bf111cdc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 940f9fabc69697600af20796cacc85c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/giay_B_setD.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/giay_B_setA.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/aa.mat
+- "Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/07 - Default\u0111.mat"
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/quan_B_dai.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_6.3.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_5.3.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/vay.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/seA.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/skin.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/giay_farm.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_5.3.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/toc_G_dai vang.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_9.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/quan_G_cowboy.tga
+- "Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/07 - Default\u0111.mat"
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_9.4.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/tay_G_cowboy.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/21 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/toc-farm.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_17.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_08_Pickup.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_16_Harvest.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/giay_B_xanh.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/ao_B_setB.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/giay_G_setD.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/03 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/giay_G__mini_garden.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/giay_G_trang.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/giay_B_nau.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/Head.mat
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/toc_B_nau.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/giay_setA.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/03 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/09 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/toc_B_nau.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/ao_B_setC.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/quan_B_setC2.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/Mounth 1.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/dobo_B.psd
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/Run.anim
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_13.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/ao_B_ngan.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/toc_B_setB.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/vvv.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/aongan.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/Eye.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/Boy_set4bo.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_1.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/Jump.anim
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_16.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_01_stand_01.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/gay.mat
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/G_toc_ngan xanh.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/vay_G_setC.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_06_Jumb.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_7.1.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_7.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/NPC_G_cowboy.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/ao_mini.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/02 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/toc_B_vang.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/giay.mat
+- "Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/07 - Default\u0111.mat"
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_03_stand_03.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/giay_G_hong.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/ChuSau/Hand.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/giay.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/qq.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/dau_B_coban.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/giayDs.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/bs.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/bua.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/vaysetA.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/giay_B_setC.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_2.5.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/07 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/giay.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Prefabs/BoyDefault.prefab
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_09_lowpower_walk.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/toc_G_setB.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/toc_G_cowboy.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_17_watering.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/giay_B_den.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/ao.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/02 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_7.1.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/boy_itemshop.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/toc.mat
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/quan_G_dai do.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_1.2.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/toc_B_setC.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_4.2.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_3.5.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_15.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/quan_B_ngan.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/ao_B_ao khoac.png
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/quan_B_dai.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/quanliung.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/OnAir.anim
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/aongan.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/ChuSau/toc_B_chuhai.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_4.2.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_07_Levelup.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_4.1.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/toc_B_vang.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/Eye 1.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/toc_mini.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_04_walk.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/08 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/ChuSau/aoquan_B_chuhai.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/quanthethao.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/vay_G_setD.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/toc_G_dai vang.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/G_toc_verdiant.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/tay_G_main.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_1.1.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/giay_B_xanh.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/ao_dai.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/tocC.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/toc_B_vangthoitrang.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_10.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/15 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_7.4.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/vay_G_mini_garden.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/quan_G_dai thun.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_23.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_20.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/toc_B_coban.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_5.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/ao_B_setD.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/quan_B_setD.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/Mounth.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/skin.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/Shadow.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_19_composting.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/Eye.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/ao_G_ao lung.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/NPC_farm.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/ao_G_tay dai.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_8.2.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/giay_B_setB.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_13_Rock_break.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_7.5.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/quan_G_dai thun.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/giay_G_trang.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/ao_B_dai.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Prefabs/NPC/NPC_4.prefab
+- "Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/s\u1EBBB.mat"
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/ao_G_tay dai.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/qq.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_10.2.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/ChuSau/07 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/G_vay_verdiant.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_7.4.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/ao_B_dai.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_14_Hoe.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/giayD.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/G_toc_ngan xanh.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/toc_G_cowboy.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/ao_G_ao lung.png
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/ao_G_tay dai.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_22.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/giay_G_setC.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Prefabs/NPC/NPC_3.prefab
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/ao_G_hong.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_0.0.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_1.2.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/setb.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/toc_G_farm.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/binh thuoc sau.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/giay_G_cowboy.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/G_newfashion.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/ao.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_21.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/giay_G_den.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/ssc.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/09 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_4.0.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/quan_B_lung.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_3.4.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/B_0.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/09 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_7.5.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_3.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/Eye.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_05_run.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/giay_B_nau.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/giay_G_den.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_8.0.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_1.1.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/q.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_18_phunthuocsau.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/08 - Des.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/ao_G_cowboy.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/quan_B_lung.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/toc_G_hong.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/Body.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/quan_G_farm.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_3.5.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/G_0.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_11.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/toc_G_setA.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/ao'.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_14.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Animator/NPC.controller
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/quan_B_setB.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/vaysetC.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Prefabs/NPC/NPC_2.prefab
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/tocden_.mat
+- Assets/Nichietsu/Resources/assetbundle_1/UI/B_0/toc_B_vangthoitrang.png
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/toc_G_hong no.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/quan_G_ngan.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/giay.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/giay.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/giay_G_farm.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Prefabs/NPC/NPC_1.prefab
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/giay_B_den.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/giay_ver.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/toc_G_mini_garden.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_4.1.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Animator/Farm Animator.controller
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/quan_G_dai do.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/toc_G_dai vang.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/toc_B_fang.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_12_Chop.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_10_fencebuiid.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/ao_G_aolung.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/ao_B_itemshop.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/quan_G_ngan.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/09 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/07 sss.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_8.6.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/stoc.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/ao_B_ao khoac.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/ChuSau/09 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/toc_B_setD.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/toc_B_itemshop.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/toc_B_fasion.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/cuoc_seng_bua_liem.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/Hair.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/giay_G_setA.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/vaysetB.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/c.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_18.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Prefabs/NPC/NPC_0.prefab
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_8.2.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_8.0.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Animator/Center.controller
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_11_LandExtend.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/ChuSau/03 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_6.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_2.5.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/NPC_verdiant
+  farm.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/skeletonMesh.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/G_giay_verdiant.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/anim_02_stand_02.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/tay_G_main.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/vay_G_setA.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_0.0.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_4.0.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_6.3.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/binh tuoi.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/tay_B_coban.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/ChuSau/NPC_chu Hai.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_4.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/09 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/giay_G_hong.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/chan_B.tif
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/NPC_mini_garden.fbx
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/baohatgiong.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/toc_G_setC.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/ao_G_hong.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/ao_G_farm .tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/02 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/ChuSau/02 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/07 sss.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/toc_B_setA.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/vay_G_setB.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_19.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/giay_B_setD.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/Mounth.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_8.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/sss.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/Mouth.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/ChuSau/Head 1.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/giayC.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/quan_B_setC.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/Hand.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_mini/giay_ver.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/Feet.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/ao_B_setA.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/giay_B_coban.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Animation/animation/phanbon.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/07 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_10.2.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_2.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mieng_12.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/14 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_1/quan_B_setA.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_Item_Shop/quan_B_itemshop.tga
+- Assets/Nichietsu/Resources/assetbundle_1/UI/G_0/quan_G_dai thun.png
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/toc_G_hong no.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_9.4.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_1/giay_G_setB.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_verdiant farm/toc_ver.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/B_0/ao_B_ngan.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/BoyDefault/Eye.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_F_3.4.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/Mounth.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/Face/Mat_M_8.6.tga
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/G_0/giays.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_farm/tay.mat
+- Assets/Nichietsu/Resources/assetbundle_1/Resource/NPC_G_cowboy/01 - Default.mat
+Dependencies: []

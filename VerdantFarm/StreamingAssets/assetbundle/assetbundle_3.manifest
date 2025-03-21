@@ -1,0 +1,192 @@
+ManifestFileVersion: 0
+CRC: 3400516970
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91954bc5d21c7458ddd1ef21edb4b1c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21235d97f492191eea5cf6f65f0c3b8b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 91954bc5d21c7458ddd1ef21edb4b1c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Beauty.controller
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Plants_Decoration/Plant_6.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Trees/Tree_04.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Hailua_open.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/Street.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Trees/tree_07.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Trees/Tree_01.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/Material #0.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Plants_Decoration/Plant_4.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/item_trangtri/item_trangtri.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Flower_fence/hangrao_hoa.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Hailua_close.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/bank.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/block_xanh.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/ShopRobotOpen.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Trees/Tree_06.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Rock/rock_04.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Rock/rock_05.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/ShopRobot.controller
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/bank.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/hailua.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/duong.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/shop_city.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/robot.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/plants_Decoration/01 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/HaiLua.controller
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/plants_Decoration/hoa bui.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Rock/09 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Trees/tree_04.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Plants_Decoration/Plant_7.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/07 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Trees/tree_2.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/glass.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/15 - Ds.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/water.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/block_xanh.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Trees/Tree.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Mini_Close.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Beauty_open.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Plants_Decoration/Plant_2.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Trees/01 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/city_map.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Trees/tree_06.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/hailua_mec.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/glass.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/item_trangtri/item_trangtri.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/mini_garden.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/verdant.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Data/Map.txt
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Rocks/rock_02.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Rocks/rock_04.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/map_3D.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Verdant.controller
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/mini_garden.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Rock/rock_01.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/plants_Decoration/Plant_flower_2.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Verdant_Open.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/plants_Decoration/tree_ brush.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Flower_fence/02 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/shop_robot/shop_robot.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Plants_Decoration/Plant_3.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Trees/tree_02.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/03 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/15 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/city_cafe.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/pepsi.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/mini.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/plants_Decoration/02 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/colider.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Materials/wave.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/block_do.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Flower_fence/hangrao_hoa.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Trees/tree_03.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Materials/glass.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/city_car.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/city_shopdo.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/shop_robot/15 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/Cattle Corner.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/block_do.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Trees/tree_01.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/ShopRobotClose.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/LCD.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/mini_mec.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Mini.controller
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/MEC_STORE.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Bank Close.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/map_city.psd
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Trees/Tree_05.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/verdant.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/plants_Decoration/grass.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Rocks/rock_05.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/15 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/09 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Plants_Decoration/Plant_1.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Rocks/rock_01.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Trees/Tree_07.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Bank.controller
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/Cattle Corner.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/hailua.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Trees/tree_05.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/plants_Decoration/Plant_flower_3.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Mini_Open.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/city_beauty.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Plants_Decoration/Plant_5.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/city_pet.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Rocks/rock_03.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Audio/BG.mp3
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Rock/rock_03.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/Hailua.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/block_do.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/seven_11.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/Sand.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/city_game.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/item_trangtri/ssscsdsd.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/LCD.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/plants_Decoration/plant.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Rock/rock_02.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Trees/Tree_02.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/03 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Plants_Decoration/Plant_0.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/robot.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Verdant_Close.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Bank Open.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/shop_robot/shop_robot.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/block_xanh.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/plants_Decoration/Plant_flower_1.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/07 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/shop_robot/Material #0.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/MEC Store.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Maps/nha bank_robotBX/08 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/MEC/Creature Care.tga
+- Assets/Nichietsu/Resources/assetbundle_3/Prefabs/Trees/tree_1.prefab
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Beauty_close.anim
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Animation/Door.controller
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Trees/Tree_03.fbx
+- Assets/Nichietsu/Resources/assetbundle_3/Resource/Rock/Rock_Painting.tga
+Dependencies:
+- D:/Game/VerdantFarm_Sale/Assets/StreamingAssets/assetbundle/assetbundle_0

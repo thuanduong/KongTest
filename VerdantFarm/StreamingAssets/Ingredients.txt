@@ -1,0 +1,46 @@
+﻿[
+  {
+    "_id": "ab4d2e05-156e-4ca7-99b1-2eabc8f61173",
+    "type": -1,
+    "doc_status": "active",
+    "name": [
+      "Wood",
+      "Gỗ",
+      ""
+    ],
+    "description": [
+      "Used for building animal enclosures",
+      "Dùng để xây hàng rào nuôi động vật",
+      ""
+    ],
+    "price": 10.0,
+    "level": 0,
+    "lifetime": 10,
+    "unit": "",
+    "count_receive": 6,
+    "ab": 0,
+    "ab_name": "wood"
+  },
+   {
+    "_id": "isjd9822-8s5w-2s5d-4563-25s155s2s5a1",
+    "type": -2,
+    "doc_status": "active",
+    "name": [
+      "rock",
+      "Đá",
+      ""
+    ],
+    "description": [
+      "",
+      "",
+      ""
+    ],
+    "price": 20.0,
+    "level": 0,
+    "lifetime": 10,
+    "unit": "",
+    "count_receive": 6,
+    "ab": 0,
+    "ab_name": "rock"
+  }
+]

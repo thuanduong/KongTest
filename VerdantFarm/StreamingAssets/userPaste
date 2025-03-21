@@ -1,0 +1,152 @@
+{
+  "currency": "VCoin",
+  "balance": 116676.0,
+  "exp": 14160,
+  "player_name": "messi11",
+  "language": 0,
+  "level": 22,
+  "done_tutorials": true,
+  "user_crop": [
+    {
+      "_id": "1111",
+      "crop_id": "1",
+      "count": 4,
+      "created_at": ""
+    },
+    {
+      "_id": "8668",
+      "crop_id": "2",
+      "count": 4,
+      "created_at": ""
+    },
+    {
+      "_id": "4673aa",
+      "crop_id": "3",
+      "count": 248,
+      "created_at": ""
+    },
+    {
+      "_id": "asdsafgafra",
+      "crop_id": "4",
+      "count": 290,
+      "created_at": ""
+    },
+    {
+      "_id": "sadsadasw4523",
+      "crop_id": "5",
+      "count": 178,
+      "created_at": ""
+    },
+    {
+      "_id": "sadsadasw4523",
+      "crop_id": "6",
+      "count": 300,
+      "created_at": ""
+    },
+    {
+      "_id": "sadsadasw4523",
+      "crop_id": "7",
+      "count": 300,
+      "created_at": ""
+    }
+  ],
+  "user_product": [
+    {
+      "_id": "f03af9af-60d2-499c-95b9-937767e78f34",
+      "product_id": "6",
+      "amount": 89.0,
+      "created_at": null
+    },
+    {
+      "_id": "1943fff8-683a-4222-94be-c2df3c1ddf59",
+      "product_id": "1",
+      "amount": 301.0,
+      "created_at": null
+    },
+    {
+      "_id": "e06cb7f3-f849-4c4d-b0cb-8b6af584ca7f",
+      "product_id": "3",
+      "amount": 110.0,
+      "created_at": null
+    },
+    {
+      "_id": "572efa54-e1f3-4193-b3a6-d850aa8fe82a",
+      "product_id": "5",
+      "amount": 153.0,
+      "created_at": null
+    },
+    {
+      "_id": "a00dbfc9-0dac-4d56-93ad-93378489c0d5",
+      "product_id": "2",
+      "amount": 0.0,
+      "created_at": null
+    },
+    {
+      "_id": "279b44c6-28ff-4c83-a23a-da82325712ce",
+      "product_id": "7",
+      "amount": 60.0,
+      "created_at": null
+    },
+    {
+      "_id": "5d16b36a-d53c-482d-964f-59e9c70d88fe",
+      "product_id": "8",
+      "amount": 20.0,
+      "created_at": null
+    }
+  ],
+  "user_marerials": [
+    {
+      "_id": "111121",
+      "materials_id": "11",
+      "amount": 2222.0,
+      "created_at": ""
+    },
+    {
+      "_id": "qwewq",
+      "materials_id": "12",
+      "amount": 279.0,
+      "created_at": ""
+    },
+    {
+      "_id": "dsdfsdfsdfs",
+      "materials_id": "13",
+      "amount": 302.0,
+      "created_at": ""
+    },
+    {
+      "_id": "dsdfsdasdsadsadasfsdfs",
+      "materials_id": "14",
+      "amount": 19.0,
+      "created_at": ""
+    }
+  ],
+  "user_ingredients": [
+    {
+      "_id": "aa01cca9-b4ea-44e1-9867-8ac23462c4a4",
+      "ingredients_id": "9",
+      "amount": 28.0,
+      "created_at": "7/31/2024 3:56:29 AM"
+    },
+    {
+      "_id": "00687ad0-1a7a-4725-b3d1-e0cad3ad0c98",
+      "ingredients_id": "10",
+      "amount": 6.0,
+      "created_at": "7/31/2024 8:10:59 AM"
+    }
+  ],
+  "user_skins_id": [],
+  "user_quests": [
+    {
+      "fk_quest_id": "",
+      "amount": 0.0,
+      "status": "not used",
+      "created_at": null,
+      "done_at": null
+    }
+  ],
+  "skin": {
+    "gender": 0,
+    "type": 0,
+    "skins_id": null
+  }
+}

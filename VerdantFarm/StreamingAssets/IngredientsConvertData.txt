@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "9",
+    "type": -1,
+    "sub_type": 0,
+    "doc_status": "active",
+    "name": [
+      "Wood",
+      ""
+    ],
+    "description": [
+      "Used for building animal enclosures"
+    ],
+    "price": 0.0,
+    "level": 0,
+    "unit": "",
+    "ab": 0,
+    "ab_name": "wood",
+    "shop_name": ""
+  },
+  {
+    "_id": "10",
+    "type": -2,
+    "sub_type": 0,
+    "doc_status": "active",
+    "name": [
+      "Rock",
+      ""
+    ],
+    "description": [
+      "Used for building decorative stone path"
+    ],
+    "price": 0.0,
+    "level": 0,
+    "unit": "",
+    "ab": 0,
+    "ab_name": "rock",
+    "shop_name": ""
+  }
+]

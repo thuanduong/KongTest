@@ -1,0 +1,735 @@
+﻿{
+  "version": "1.0.0",
+  "assetBundles": null,
+  "user_level": [
+    {
+      "level": 1,
+      "exp": 0
+    },
+    {
+      "level": 2,
+      "exp": 100
+    },
+    {
+      "level": 3,
+      "exp": 200
+    },
+    {
+      "level": 4,
+      "exp": 400
+    },
+    {
+      "level": 5,
+      "exp": 800
+    }
+  ],
+  "building": [
+    {
+      "_id": "1",
+      "doc_status": "active",
+      "description": [
+        "",
+        "",
+        ""
+      ],
+      "name": [
+        "fence",
+        "gỗ",
+        ""
+      ],
+      "level": 0,
+      "type": 2,
+      "build_type": 10,
+      "near_x": [],
+      "near_y": [],
+      "ingredients": [
+        {
+          "_id": "5d381330-5fe2-4fda-a1f8-ff5fa0527a1f",
+          "ingredients_id": "ab4d2e05-156e-4ca7-99b1-2eabc8f61173",
+          "amount": 3.0,
+          "created_at": null
+        }
+      ],
+      "ab": 0,
+      "ab_name": "fence",
+      "created_at": null
+    },
+    {
+      "_id": "2",
+      "doc_status": "active",
+      "description": [
+        "",
+        "",
+        ""
+      ],
+      "name": [
+        "Plot ",
+        "Đất trồng",
+        ""
+      ],
+      "level": 0,
+      "type": 1,
+      "build_type": 10,
+      "near_x": [],
+      "near_y": [],
+      "ingredients": [],
+      "ab": 3,
+      "ab_name": "Dat_trong",
+      "created_at": null
+    }
+  ],
+  "quest": [
+   {
+     "_id": "1",
+      "mini_game": 0,
+      "order": 0,
+      "action": 13,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Meet Mr. Six",
+        "Gặp chú Sáu",
+        null
+      ],
+      "conversation": [
+       "You're here! It's been so long since I last saw you. Your parents called me, I'm Uncle Sau. It's been many years since we met again; you've grown so much!",
+        "This is your own land, from now on you can freely plant crops and raise livestock here. You can take water from the pond for irrigation inside.",
+        "I will help you familier with this land. Follow me, first let's learn how to Dig a piece on the land."
+      ],
+      "tutorial": true,
+      "exp_gain": 0,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "2",
+      "mini_game": 0,
+      "order": 1,
+      "action": 0,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Dig a piece on the land",
+        "Cuoc 1 mieng dat",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 100,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "3",
+      "mini_game":0,
+      "order": 2,
+      "action": 13,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Talk with Mr. Six",
+        "Gặp chú Sáu",
+        null
+      ],
+      "conversation": [
+          "After the soil has been tilled, you need seeds to plant.",
+          "Follow me to Tina shop, she will have good seeds for you."
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "4",
+      "mini_game":0,
+      "order": 3,
+      "action": 11,
+      "action_id" : "6",
+      "amount": 1,
+      "description": [
+        "Buy Corn",
+        "Mua cay bap",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+     {
+      "_id": "5",
+      "mini_game":0,
+      "order": 4,
+      "action": 13,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Talk with Mr. Six",
+        "Gặp chú Sáu",
+        null
+      ],
+      "conversation": [
+          "Go to the piece of land from earlier and sow the seeds you just bought."
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "6",
+      "mini_game":0,
+      "order": 5,
+      "action": 1,
+      "action_id" : "6",
+      "amount": 1,
+      "description": [
+        "Corn planting",
+        "Trong cay bap",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "7",
+      "mini_game":0,
+      "order": 6,
+      "action": 13,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Talk with Mr. Six",
+        "Gặp chú Sáu",
+        null
+      ],
+      "conversation": [
+          "If the plants lack water, they will wilt and won't be able to be harvested. That would waste the seeds.",
+          "Go to the pond to get water to irrigate the plants. "
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "8",
+      "mini_game":0,
+      "order": 7,
+      "action": 7,
+      "action_id" : "12",
+      "amount": 1,
+      "description": [
+        "Take water once",
+        "Lay nuoc 1 lan",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "9",
+      "mini_game":0,
+      "order": 8,
+      "action": 13,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Talk with Mr. Six",
+        "Gặp chú Sáu",
+        null
+      ],
+      "conversation": [
+          "Let come back and water the plants before it wilts"
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "10",
+      "mini_game":0,
+      "order": 9,
+      "action": 2,
+      "action_id" : "12",
+      "amount": 1,
+      "description": [
+        "Watering for corn once",
+        "Tưới nước cho cây một lần ",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "11",
+      "mini_game":0,
+      "order": 10,
+      "action": 13,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Talk with Mr. Six",
+        "Gặp chú Sáu",
+        null
+      ],
+      "conversation": [
+          "Alright, next is fertilizing, which will help the plants grow faster. The Hai Lua Shop at the center market sells a lot of it.",
+          "I will show you how to get there."
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+     },
+     {
+      "_id": "travel1",
+      "mini_game":0,
+      "order": 11,
+      "action": 14,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Travel to the Center",
+        "Travel to the Center",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "12",
+      "mini_game":1,
+      "order": 12,
+      "action": 11,
+      "action_id" : "11",
+      "amount": 1,
+      "description": [
+        "Buy fertilizer for corn ",
+        "Mua phân bón ",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "travel2",
+      "mini_game":1,
+      "order": 13,
+      "action": 14,
+      "action_id" : "0",
+      "amount": 1,
+      "description": [
+        "Back to Farm",
+        "Back to Farm",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "13",
+      "mini_game":0,
+      "order": 14,
+      "action": 13,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Talk with Mr. Six",
+        "Gặp chú Sáu",
+        null
+      ],
+      "conversation": [
+        "Now, let's fertilize!",
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "14",
+      "mini_game":0,
+      "order": 15,
+      "action": 3,
+      "action_id" : "11",
+      "amount": 1,
+      "description": [
+        "Use fertilizer for corn",
+        "Dùng phân bón cho cây bắp",
+        null
+      ],
+      "conversation": [
+       "Now, let's fertilize!",
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "15",
+      "mini_game":0,
+      "order": 16,
+      "action": 13,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Talk with Mr. Six",
+        "Gặp chú Sáu",
+        null
+      ],
+      "conversation": [
+        "The plants have grown, let harvest them!"
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "16",
+      "mini_game":0,
+      "order": 17,
+      "action": 6,
+      "action_id" : "6",
+      "amount": 1,
+      "description": [
+        "First Harvest",
+        "First Harvest",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "17",
+      "mini_game":0,
+      "order": 18,
+      "action": 13,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Talk with Mr. Six",
+        "Gặp chú Sáu",
+        null
+      ],
+      "conversation": [
+        "Now we need to cut down trees for wood.",
+        "Wood can be used to build fences"
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "18",
+      "mini_game":0,
+      "order": 19,
+      "action": 8,
+      "action_id" : "9",
+      "amount": 1,
+      "description": [
+        "Chop down trees with axe once",
+        "Chat cay 1 lan",
+        null
+      ],
+      "conversation": [
+      "Cutting down trees will yield wood for construction; however, the resources on the island are limited, so consider using them wisely.",
+        ""
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },  
+    {
+      "_id": "19",
+      "mini_game": 0,
+      "order": 20,
+      "action": 0,
+      "action_id" : "2",
+      "amount": 1,
+      "description": [
+        "Build a fence",
+        "Xây một hàng rào",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 100,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+     {
+      "_id": "travel3",
+      "mini_game":0,
+      "order": 21,
+      "action": 14,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Travel to the Center",
+        "Travel to the Center",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "20",
+      "mini_game":1,
+      "order": 22,
+      "action": 11,
+      "action_id" : "7",
+      "amount": 1,
+      "description": [
+        "Buy quail",
+        "Mua con chim Cút",
+        null
+      ],
+      "conversation": [
+        "We also need to have breeding birds; 
+        the Verdant Farm supermarket sells a lot of them, so we need to make another trip to the city.",
+        ""
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "travel4",
+      "mini_game":1,
+      "order": 23,
+      "action": 14,
+      "action_id" : "0",
+      "amount": 1,
+      "description": [
+        "Back to Farm",
+        "Back to Farm",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "21",
+      "mini_game":0,
+      "order": 24,
+      "action": 1,
+      "action_id" : "7",
+      "amount": 1,
+      "description": [
+        "Raise a quail",
+        "Nuôi chim cút",
+        null
+      ],
+      "conversation": [
+      "Alright, release the birds into the enclosure to get started.",
+        ""
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "22",
+      "mini_game":0,
+      "order": 25,
+      "action": 2,
+      "action_id" : "6",
+      "amount": 1,
+      "description": [
+        "Feed a quail",
+        "Cho chim cút ăn",
+        null
+      ],
+      "conversation": [
+       "Use the corn you harvested earlier to feed the birds. Just like watering the plants, if the birds are not fed properly, they will dead.",
+        ""
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+     {
+      "_id": "travel5",
+      "mini_game":0,
+      "order": 26,
+      "action": 14,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Travel to the Center",
+        "Travel to the Center",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "23",
+      "mini_game": 1,
+      "order": 27,
+      "action": 11,
+      "action_id" : "13",
+      "amount": 1,
+      "description": [
+        "Buy animal disease prevention medicine",
+        "Mua thuốc phòng bệnh vật nuôi",
+        null
+      ],
+      "conversation": [
+        "Livestock has varying rates of disease infection during different growth stages. Some may not get infected and reproduce normally, but others may die if infected. Increasing the survival rate means harvesting more products. First, we need to get the Animal Disease Prevention medicine at the Hai Lua shop",
+        ""
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "travel6",
+      "mini_game":1,
+      "order": 28,
+      "action": 14,
+      "action_id" : "0",
+      "amount": 1,
+      "description": [
+        "Back to Farm",
+        "Back to Farm",
+        null
+      ],
+      "conversation": [
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "24",
+      "mini_game":0,
+      "order": 29,
+      "action": 4,
+      "action_id" : "7",
+      "amount": 1,
+      "description": [
+        "Use animal disease prevention medicine for quail",
+        "Sử dụng thuốc phòng bệnh vật nuôi cho chim cút",
+        null
+      ],
+      "conversation": [
+        "Use the disease prevention medicine for the quail.",
+        ""
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    },
+    {
+      "_id": "25",
+      "mini_game":0,
+      "order":30,
+      "action": 6,
+      "action_id" : "1",
+      "amount": 1,
+      "description": [
+        "Harvest quail oncee",
+        "thu hoạch Cút 1 lần",
+        null
+      ],
+      "conversation": [
+        "Alright, now we just need to wait for the harvest.",
+        ""
+      ],
+      "tutorial": true,
+      "exp_gain": 50,
+      "rewards_balance": 0,
+      "questRewards": [
+      ]
+    }
+  ],
+  "tile_map": null
+}

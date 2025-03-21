@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 971091911
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetbundle_0
+      Dependencies:
+        Dependency_0: assetbundle_1
+    Info_1:
+      Name: assetbundle_1
+      Dependencies: {}
+    Info_2:
+      Name: assetbundle_2
+      Dependencies: {}
+    Info_3:
+      Name: assetbundle_3
+      Dependencies:
+        Dependency_0: assetbundle_0
+    Info_4:
+      Name: assetbundle_4
+      Dependencies: {}

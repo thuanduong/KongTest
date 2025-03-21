@@ -1,0 +1,531 @@
+﻿[
+    {
+        "_id": "asuygdasuydiasddasdsadsad",
+        "type": 1,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "toc_B_nau",
+        "name": ["Brown Hair", "Tóc Nâu "]
+     },    
+    {
+        "_id": "dsajdsafhiefiefqas",
+        "type": 1,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "toc_B_vang",
+        "name": ["Yellow Hair (B)", "Tóc Vàng (B)"]
+    },
+    {
+        "_id": "sadsadasfad35",
+        "type": 1,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "toc_B_vangthoitrang",
+        "name": ["Fashion Yellow Hair (B)", "Tóc Vàng Thời Trang (B)"]
+    },
+    {
+        "_id": "53sad1s56a4ds6a",
+        "type": 1,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "toc_G_dai vang",
+        "name": ["Long Yellow Hair (G)", "Tóc Dài Vàng (G)"]
+    },
+    {
+        "_id": "s8s5f2ssa6a6a",
+        "type": 1,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "G_toc_ngan xanh",
+        "name": ["Short Green Hair (G)", "Tóc Ngắn Xanh (G)"]
+    },
+    {
+        "_id": "468as654sa65as56asd645a",
+        "type": 1,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "toc_G_hong no",
+        "name": ["Pink Hair (G)", "Tóc Hồng Nở (G)"]
+    },
+    {
+        "_id": "iv9d99dkss0f558563k",
+        "type": 2,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "ao_B_ngan",
+        "name": ["Short Shirt (B)", "Áo Ngắn (B)"]
+    },
+    {
+        "_id": "iv9d99dk454343ss0fk",
+        "type": 2,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "ao_B_dai",
+        "name": ["Long Shirt (B)", "Áo Dài (B)"]
+    },
+    {
+        "_id": "iv9d99dkss05455555fk",
+        "type": 2,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "ao_B_ao khoac",
+        "name": ["Coat (B)", "Áo Khoác (B)"]
+    },
+    {
+        "_id": "sa5sa54as56as6a",
+        "type": 2,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "ao_G_ao lung",
+        "name": ["Crop Top (G)", "Áo Lửng (G)"]
+    },
+    {
+        "_id": "as54sa468as6a3s8dx2d",
+        "type": 2,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "ao_G_hong",
+        "name": ["Pink Shirt (G)", "Áo Hồng (G)"]
+    },
+    {
+        "_id": "rdsf78asyf94wfas",
+        "type": 2,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "ao_G_tay dai",
+        "name": ["Long Sleeve Shirt (G)", "Áo Tay Dài (G)"]
+    },  {
+        "_id": "9a6s9a5ssaa65saa",
+        "type": 3,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "",
+        "name": ["Unnamed Accessory (G)", "Phụ Kiện Không Tên (G)"]
+    },
+    {
+        "_id": "sada8ouas9gala",
+        "type": 3,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "tay_G_main",
+        "name": ["Main Hand (G)", "Tay Chính (G)"]
+    },
+    {
+        "_id": "sadsa5d4sa6d4sa34fd89aw6",
+        "type": 4,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "quan_B_ngan",
+        "name": ["Short Pants (B)", "Quần Ngắn (B)"]
+    },
+    {
+        "_id": "sad57as7f6a13cfsa8f7a",
+        "type": 4,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "quan_B_dai",
+        "name": ["Long Pants (B)", "Quần Dài (B)"]
+    },
+    {
+        "_id": "g158f4h6s5nf",
+        "type": 4,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "quan_B_lung",
+        "name": ["High-Waist Pants (B)", "Quần Lưng Cao (B)"]
+    },
+    {
+        "_id": "8sasa3s4d68a3a3ss6",
+        "type": 4,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "quan_G_ngan",
+        "name": ["Short Pants (G)", "Quần Ngắn (G)"]
+    },
+    {
+        "_id": "456789123",
+        "type": 4,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "quan_G_dai thun",
+        "name": ["Stretch Long Pants (G)", "Quần Dài Thun (G)"]
+    },
+    {
+        "_id": "987654321",
+        "type": 4,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "quan_G_dai do",
+        "name": ["Red Long Pants (G)", "Quần Dài Đỏ (G)"]
+    },
+    {
+        "_id": "123456789",
+        "type": 5,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "giay_B_nau",
+        "name": ["Brown Shoes (B)", "Giày Nâu (B)"]
+    },
+    {
+        "_id": "123asd456asd789",
+        "type": 5,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "giay_B_xanh",
+        "name": ["Blue Shoes (B)", "Giày Xanh (B)"]
+    },
+    {
+        "_id": "786asd465asd890lka",
+        "type": 5,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "B_0",
+        "part_name": "giay_B_den",
+        "name": ["Black Shoes (B)", "Giày Đen (B)"]
+    },
+    {
+        "_id": "890jkgh46asd",
+        "type": 5,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "giay_G_den",
+        "name": ["Black Shoes (G)", "Giày Đen (G)"]
+    },
+    {
+        "_id": "456asd789asd132asd56634",
+        "type": 5,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "giay_G_trang",
+        "name": ["White Shoes (G)", "Giày Trắng (G)"]
+    },
+    {
+        "_id": "132486shaiudhsaoc",
+        "type": 5,
+        "shop_name": "",
+        "price": 0.0,
+        "ab": 1,
+        "ab_name": "G_0",
+        "part_name": "giay_G_hong",
+        "name": ["Pink Shoes (G)", "Giày Hồng (G)"]
+    },
+    {
+        "_id": "unique_id_5",
+        "type": 1,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "toc_B_setA",
+        "name": ["Set A Hair (B)", "Tóc Set A (B)"]
+    },
+    {
+        "_id": "unique_id_6",
+        "type": 1,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "toc_B_setB",
+        "name": ["Set B Hair (B)", "Tóc Set B (B)"]
+    },
+    {
+        "_id": "unique_id_7",
+        "type": 1,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "toc_B_setC",
+        "name": ["Set C Hair (B)", "Tóc Set C (B)"]
+    },
+    {
+        "_id": "unique_id_8",
+        "type": 1,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "toc_B_setD",
+        "name": ["Set D Hair (B)", "Tóc Set D (B)"]
+    },
+    {
+        "_id": "unique_id_33",
+        "type": 1,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "toc_G_setA",
+        "name": ["Hair Set A (G)", "Tóc Set A (G)"]
+    },
+    {
+        "_id": "unique_id_34",
+        "type": 1,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "toc_G_setB",
+        "name": ["Hair Set B (G)", "Tóc Set B (G)"]
+    },
+    {
+        "_id": "unique_id_35",
+        "type": 1,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "toc_G_setC",
+        "name": ["Hair Set C (G)", "Tóc Set C (G)"]
+    },
+    {
+        "_id": "unique_id_1",
+        "type": 2,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "ao_B_setA",
+        "name": ["Set A Shirt (B)", "Áo Set A (B)"]
+    },
+    {
+        "_id": "unique_id_2",
+        "type": 2,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "ao_B_setB",
+        "name": ["Set B Shirt (B)", "Áo Set B (B)"]
+    },
+    {
+        "_id": "unique_id_3",
+        "type": 2,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "ao_B_setC",
+        "name": ["Set C Shirt (B)", "Áo Set C (B)"]
+    },
+    {
+        "_id": "unique_id_4",
+        "type": 2,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "ao_B_setD",
+        "name": ["Set D Shirt (B)", "Áo Set D (B)"]
+    },
+    {
+        "_id": "unique_id_9",
+        "type": 4,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "quan_B_setA",
+        "name": ["Set A Pants (B)", "Quần Set A (B)"]
+    },
+    {
+        "_id": "unique_id_10",
+        "type": 4,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "quan_B_setB",
+        "name": ["Set B Pants (B)", "Quần Set B (B)"]
+    },
+    {
+        "_id": "unique_id_11",
+        "type": 4,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "quan_B_setC",
+        "name": ["Set C Pants (B)", "Quần Set C (B)"]
+    },
+    {
+        "_id": "unique_id_12",
+        "type": 4,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "quan_B_setD",
+        "name": ["Set D Pants (B)", "Quần Set D (B)"]
+    },
+    {
+        "_id": "unique_id_13",
+        "type": 5,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "giay_B_setA",
+        "name": ["Set A Shoes (B)", "Giày Set A (B)"]
+    },
+    {
+        "_id": "unique_id_14",
+        "type": 5,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "giay_B_setB",
+        "name": ["Set B Shoes (B)", "Giày Set B (B)"]
+    },
+    {
+        "_id": "unique_id_15",
+        "type": 5,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "giay_B_setC",
+        "name": ["Set C Shoes (B)", "Giày Set C (B)"]
+    },
+    {
+        "_id": "unique_id_16",
+        "type": 5,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "B_1",
+        "part_name": "giay_B_setD",
+        "name": ["Set D Shoes (B)", "Giày Set D (B)"]
+    },
+    {
+        "_id": "unique_id_29",
+        "type": 5,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "giay_G_setA",
+        "name": ["Shoes Set A (G)", "Giày Set A (G)"]
+    },
+    {
+        "_id": "unique_id_30",
+        "type": 5,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "giay_G_setB",
+        "name": ["Shoes Set B (G)", "Giày Set B (G)"]
+    },
+    {
+        "_id": "unique_id_31",
+        "type": 5,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "giay_G_setC",
+        "name": ["Shoes Set C (G)", "Giày Set C (G)"]
+    },
+    {
+        "_id": "unique_id_32",
+        "type": 5,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "giay_G_setD",
+        "name": ["Shoes Set D (G)", "Giày Set D (G)"]
+    },
+    {
+        "_id": "unique_id_37",
+        "type": 6,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "vay_G_setA",
+        "name": ["Dress Set A (G)", "Váy Set A (G)"]
+    },
+    {
+        "_id": "unique_id_38",
+        "type": 6,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "vay_G_setB",
+        "name": ["Dress Set B (G)", "Váy Set B (G)"]
+    },
+    {
+        "_id": "unique_id_39",
+        "type": 6,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "vay_G_setC",
+        "name": ["Dress Set C (G)", "Váy Set C (G)"]
+    },
+    {
+        "_id": "unique_id_40",
+        "type": 6,
+        "shop_name": "city_beauty",
+        "price": 100000,
+        "ab": 1,
+        "ab_name": "G_1",
+        "part_name": "vay_G_setD",
+        "name": ["Dress Set D (G)", "Váy Set D (G)"]
+    }
+]

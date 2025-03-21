@@ -1,0 +1,148 @@
+{
+  "Zodiac event": [
+    {
+      "id": 1,
+      "bath": 1,
+      "buy_level": 5,
+      "zodiac_id": 1,
+      "name": "Rat",
+      "price": 1000,
+      "profit_duration": 7,
+      "profit_per_day": 200,
+      "ab": "5",
+      "ab_name": "Rat"
+    },
+    {
+      "id": 2,
+      "bath": 1,
+      "buy_level": 5,
+      "zodiac_id": 2,
+      "name": "Ox",
+      "price": 1500,
+      "profit_duration": 7,
+      "profit_per_day": 375,
+      "ab": "5",
+      "ab_name": "Ox"
+    },
+    {
+      "id": 3,
+      "bath": 1,
+      "buy_level": 5,
+      "zodiac_id": 3,
+      "name": "Tiger",
+      "price": 2000,
+      "profit_duration": 7,
+      "profit_per_day": 500,
+      "ab": "5",
+      "ab_name": "Tiger"
+    },
+    {
+      "id": 4,
+      "bath": 1,
+      "buy_level": 5,
+      "zodiac_id": 4,
+      "name": "Rabbit",
+      "price": 2500,
+      "profit_duration": 7,
+      "profit_per_day": 600,
+      "ab": "5",
+      "ab_name": "Rabbit"
+    },
+    {
+      "id": 5,
+      "bath": 1,
+      "buy_level": 5,
+      "zodiac_id": 5,
+      "name": "Dragon",
+      "price": 3000,
+      "profit_duration": 7,
+      "profit_per_day": 750,
+      "ab": "5",
+      "ab_name": "Dragon"
+    },
+    {
+      "id": 6,
+      "bath": 1,
+      "buy_level": 5,
+      "zodiac_id": 6,
+      "name": "Snake",
+      "price": 3500,
+      "profit_duration": 7,
+      "profit_per_day": 800,
+      "ab": "5",
+      "ab_name": "Snake"
+    },
+    {
+      "id": 7,
+      "bath": 1,
+      "buy_level": 5,
+      "zodiac_id": 7,
+      "name": "Horse",
+      "price": 4000,
+      "profit_duration": 7,
+      "profit_per_day": 1050,
+      "ab": "5",
+      "ab_name": "Horse"
+    },
+    {
+      "id": 8,
+      "bath": 1,
+      "buy_level": 5,
+      "zodiac_id": 8,
+      "name": "Goat",
+      "price": 4500,
+      "profit_duration": 7,
+      "profit_per_day": 1125,
+      "ab": "5",
+      "ab_name": "Goat"
+    },
+    {
+      "id": 9,
+      "bath": 1,
+      "buy_level": 5,
+      "zodiac_id": 9,
+      "name": "Monkey",
+      "price": 5000,
+      "profit_duration": 7,
+      "profit_per_day": 1200,
+      "ab": "5",
+      "ab_name": "Monkey"
+    },
+    {
+      "id": 10,
+      "bath": 1,
+      "buy_level": 10,
+      "zodiac_id": 10,
+      "name": "Rooster",
+      "price": 6000,
+      "profit_duration": 7,
+      "profit_per_day": 1500,
+      "ab": "5",
+      "ab_name": "Rooster"
+    },
+    {
+      "id": 11,
+      "bath": 1,
+      "buy_level": 15,
+      "zodiac_id": 11,
+      "name": "Dog",
+      "price": 7000,
+      "profit_duration": 7,
+      "profit_per_day": 1750,
+      "ab": "5",
+      "ab_name": "Dog"
+    },
+    {
+      "id": 12,
+      "bath": 1,
+      "buy_level": 20,
+      "zodiac_id": 12,
+      "name": "Pig",
+      "price": 8000,
+      "profit_duration": 7,
+      "profit_per_day": 2400,
+      "ab": "5",
+      "ab_name": "Pig"
+    }
+  ]
+}

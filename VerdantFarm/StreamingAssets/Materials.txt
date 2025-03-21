@@ -1,0 +1,133 @@
+﻿[
+  {
+    "_id": "393969bd-f03a-4ac8-b88b-ac2c26450dc8",
+    "type": 1,
+    "sub_type": 1,
+    "doc_status": "active",
+    "name": [
+      "Water",
+      "Nước",
+      ""
+    ],
+    "description": [
+      "Used for watering plants",
+      "Sử dụng để tưới cây",
+      ""
+    ],
+    "price": 0.0,
+    "level": 0,
+    "lifetime": 10,
+    "processing_times": -1,
+    "exp_gain": 0,
+    "unit": "",
+    "ab": 0,
+    "sprite": 3,
+    "ab_name": "Binh_tuoi",
+    "ingredient": [
+    ],
+    "created_at": null
+  },
+   {
+    "_id": "887969bd-f03a-4ac8-b88b-ac2c2645dh28",
+    "type": 2,
+    "sub_type": 1,
+    "doc_status": "active",
+    "name": [
+      "Fertilizer",
+      "Phân bón",
+      ""
+    ],
+    "description": [
+      "Used to enhance plant growth",
+      "Sử dụng để tăng khả năng sinh trưởng của cây",
+      ""
+    ],
+    "price": 0.0,
+    "level": 0,
+    "lifetime": 10,
+    "processing_times": -1,
+    "exp_gain": 0,
+    "unit": "",
+    "shop_type": "2",
+    "ab": 0,
+    "ab_name": "PhanBon",
+    "ingredient": [
+      {
+        "_id": "902e6a25-491f-4072-b5c7-6973s6300b677",
+        "ingredients_id": "",
+        "amount": 1.0,
+        "created_at": null
+      }
+    ],
+    "created_at": null
+  },
+   {
+    "_id": "hfjs92j4-f03a-4ac8-b88b-kslod928jdo",
+    "type": 3,
+    "sub_type": 2,
+    "doc_status": "active",
+    "name": [
+      "animal disease prevention medicine",
+      "Thuốc phòng bệnh vật nuôi",
+      ""
+    ],
+    "description": [
+      "used for preventing diseases in animals (quails, chickens, cows)",
+      "Sử dụng để phòng bệnh cho động vật (chim cút, gà, bò)",
+      ""
+    ],
+    "price": 5000,
+    "level": 0,
+    "lifetime": 10,
+    "processing_times": -1,
+    "exp_gain": 0,
+    "unit": "",
+    "ab": 0,
+    "shop_type": "2",
+    "ab_name": "Phong_benh_vat_nuoi",
+    "ingredient": [
+      {
+        "_id": "902e6a25-491f-4072-b5c7-69736300b677",
+        "ingredients_id": "",
+        "amount": 1.0,
+        "created_at": null
+      }
+    ],
+    "created_at": null
+  },
+   {
+    "_id": "2dk3ls9j-1a0v-5k8d-4s1j-c0dlsj2k3f9a",
+    "type": 4,
+    "sub_type": 2,
+    "doc_status": "active",
+    "name": [
+      "animal disease treatment medicine",
+      "Thuốc trị bệnh vật nuôi",
+      ""
+    ],
+    "description": [
+      "used for treating diseases in animals (quails, chickens, cows)",
+      "Sử dụng để trị bệnh cho động vật (chim cút, gà, bò)",
+      ""
+    ],
+    "price": 1000.0,
+    "level": 0,
+    "lifetime": 10,
+    "processing_times": -1,
+    "exp_gain": 0,
+    "unit": "",
+    "ab": 0,
+    "shop_type": "2",
+    "ab_name": "Chua_benh_vat_nuoi",
+    "ingredient": [
+      {
+        "_id": "902e6a25-491f-4072-b5c7-69736300b677",
+        "ingredients_id": "",
+        "amount": 1.0,
+        "created_at": null
+      }
+    ],
+    "created_at": null
+  }
+  
+]

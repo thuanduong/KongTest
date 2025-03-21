@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "name": "messi55",
+    "balance": 200000,
+    "exp": 0,
+    "level": 1
+  },
+  "buildInfo": null,
+  "itemInfo": null,
+  "mainQuestInfo": null,
+  "playerEventInfoDto": null
+}

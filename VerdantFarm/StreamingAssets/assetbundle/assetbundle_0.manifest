@@ -1,0 +1,309 @@
+ManifestFileVersion: 0
+CRC: 1251727204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b315cbfcb0af2bfc568aa80c3ec3025
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7dae6833fb82297a230d91dd632ae3fa
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1b315cbfcb0af2bfc568aa80c3ec3025
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75dc38da19adaab4f9c88d2a5a2b19e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25f239a2e7caf429684e94549c78f192, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6808cc815deb21547a4690fd6b47e027, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee82d49c483b28f4193ec69dd5866fce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6eeb5dc026fdf4b488bc7ae0138ab719, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61f3cd74e241f4366bccf4a8c0fe9987, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c911687653a69a4390cd8b93306e779, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a34ab4933cb5774b87992a0abfbdc2a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 069e9a12022877740858a08a7c82ecc1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Dat_trong.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Dat_trong.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Con_ga_mai.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/tauthuyen.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Thuc_an_dinh_duong_vat_nuoi.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/2.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Thu_hoach.png
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Fence Build.wav
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/7.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/ga mai/ga mai.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Phong_benh_vat_nuoi.png
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Composting.wav
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Thuoc_tru_sau.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Qua_bap.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/cau tau/cau tau.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Watering.wav
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Trung_cut.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Materials/Square.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/ga_eat(0_60)_ idle(61_100).fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/01.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/cau tau/cau tau.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/bap_co/cay_bap.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/4.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Thit_ga.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Tab_5.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Square.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Duong_da.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/cay_ot.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/02.mat
+- Assets/Nichietsu/Resources/assetbundle_0/UI/fence.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/cut_eat(0_60)_ idle(61_100).fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/bubble/FruitIconFill.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/dat_trong.mat
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Trung_ga.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Chat_huu_co_thuy_san.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Cay_bap.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Cay_co_voi.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Animator/Animals/Con_bo.controller
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/map_modun.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/fence.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Con_chim_cut.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Fonts/SFUShannonBook.TTF
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/ca_chua.mat
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Thuc_an_thuy_san.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/wood.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/0.spriteatlas
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Phong_benh_cay.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/mua thu.tga
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Con_chim_cut.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Street_1.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/ProcessingHouse.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/modun_all.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Thuc_an_vat_nuoi.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Con_ga_mai.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/WarningSquare.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Materials/WarningSquare.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/cay lua.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/mua ha.tga
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Binh_tuoi.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Info.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/8.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/1.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/bap_co/02 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Thit_chim_cut.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Huy.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/MainHouse.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/SquareQuest.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Chop.wav
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Wood.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/binh sua bo/Binh_sua_bo.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/0.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/nha_thuyen.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/UI/rock.png
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Con_ga_mai.wav
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/BubbleControl.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Thit_bo.png
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/BG.mp3
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/chim cut/chim cut.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Chua_benh_thuy_san.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Co_voi.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Street_2.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Materials/water_wave.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/binh sua bo/Binh_sua_bo.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/bap_co/cay bap.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/DropDown.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/3.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/fence/item_all.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/muathu.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Animator/Animals/Con_ga_mai.controller
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Cay_co_voi.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/con bo/cow.mat
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Sau_benh.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/cua_ani.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/binh sua bo/08 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/cay_ot.tga
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Con_bo.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/tauthuyen/object_7.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/con bo/bo_big.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Cay_ca_chua.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/fence/hangrao_modun.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/street_2.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/bubble/FruitIconBubble.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/bap_co/cay_covoi.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Cay_ot.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Chua_benh_vat_nuoi.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/fence/fence.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/cay_cachua.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Duong_da.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/nearby.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Thuc_an_dinh_duong_thuy_san.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/base.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/chim cut/chim cut.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Harvest.wav
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Trung_ga.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Riu.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/cay lua/cay lua.tga
+- Assets/Nichietsu/Resources/assetbundle_0/UI/chu_sau.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Cay_bap.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/glass.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/tauthuyen/tau thuyen.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/con bo/bo_tex.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/chim cut/02 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Pesticides Spray.wav
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/6.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/5.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Bua.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/cay lua/02 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/tauthuyen/tauthuyen.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Bon_phan.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/mua dong.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/ot.mat
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Cuoc_dat.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/ca chua.tga
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Chat_huu_co_cay.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Ca_hoi.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Tab_4.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/Module.mat
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Sua_bo.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/nha_chinh.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/bubble/FruitIconBorder.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/nha_all.tga
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Chat_huu_co_vat_nuoi.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Trung_cut.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/ga mai/Ga mai.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/bubble/Fill.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/dat trong (new).fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/cay lua/cay lua.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/nha_shop item.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Cay_ot.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Tab_1.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/street_3.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Chua_benh_cay.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/mua xuan.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Hole.wav
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Phong_benh_thuy_san.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/bap_co/02 - Dessfault.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Con_bo.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/conbo_eat(0_260)_ idle(260_330).fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/bap_co/cay_covoi.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/ActionBar.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Cuoc_da.png
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Tab_3.png
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Rock Break.wav
+- Assets/Nichietsu/Resources/assetbundle_0/UI/PhanBon.png
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/FarmShop.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Tab_2.png
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Trees/cay_map.tga
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/cau tau/08 - Default.mat
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/ShipHouse.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Audio/Con_bo.wav
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/street_1.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Animator/skeletonAnimal.asset
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Ca_hoi.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Prefabs/Bui_hoa.prefab
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Buildings/nha_coi xay.fbx
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Animals/ga mai/lambert1.mat
+- Assets/Nichietsu/Resources/assetbundle_0/UI/Lua_gao.png
+- Assets/Nichietsu/Resources/assetbundle_0/Animator/Animals/Con_chim_cut.controller
+- Assets/Nichietsu/Resources/assetbundle_0/Resource/Maps/dattrong2.mat
+Dependencies:
+- D:/Game/3D_Farm_Update_26/Assets/StreamingAssets/assetbundle/assetbundle_1

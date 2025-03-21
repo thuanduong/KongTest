@@ -1,0 +1,44 @@
+{
+  "crop": {
+    "id": 1376,
+    "buildingId": 644,
+    "cropIdx": 3,
+    "status": "3",
+    "harvestLeft": 0,
+    "harvestCount": 0,
+    "deportment": 0,
+    "starveTime": 1741601393156,
+    "nextFeedingTime": 1741601273156,
+    "nextHarvestTime": 1741601444801,
+    "lastHarvestTime": 1741601144801,
+    "timeStartPlant": 1741601144801,
+    "idps": [
+      {
+        "id": 507,
+        "cropId": 1376,
+        "idpIdx": 1,
+        "status": 2,
+        "probability": 0.5,
+        "timeAffect": 1741601414805,
+        "timeDeath": 1741604414805,
+        "timeSolved": 1741601461113
+      }
+    ],
+    "itemLogDtos": [
+      {
+        "id": 2259,
+        "cropId": 1376,
+        "itemIdx": 6,
+        "count": 1,
+        "actionType": 2,
+        "createdTime": 1741601153156
+      }
+    ]
+  },
+  "updatedResource": null,
+  "updatedTiles": null,
+  "questInfoDto": null,
+  "playerEventInfoDto": null,
+  "statusCode": 0,
+  "messages": "Update Problem Success"
+}

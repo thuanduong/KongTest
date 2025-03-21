@@ -1,0 +1,660 @@
+[
+  {
+    "_id": "1",
+    "item_id": 15,
+    "type": 1,
+    "doc_status": "active",
+    "name": [
+      "Napier Grass Slips",
+      ""
+    ],
+    "short_description": [
+      "Nhánh cây Cỏ Voi"
+    ],
+    "description": [
+      "Nhánh cây Cỏ Voi"
+    ],
+    "price_buy": 101.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "harvest_times": 300,
+    "exp_gain": 20,
+    "ab": 0,
+    "ab_name": "Cay_co_voi",
+    "feeding_duration": 120,
+    "nearby": 0,
+    "total_harvest": 3,
+    "is_tutorial": false,
+    "shop_type_buy": "1",
+    "shop_type_sell": "3",
+    "feeding": [
+      {
+        "_id": "1",
+        "type": 2,
+        "fk_feeding_id": "12",
+        "amount": 1.0
+      }
+    ],
+    "fertilizers": [
+      {
+        "_id": "11",
+        "material_id": {
+          "_id": "1",
+          "materials_id": "11",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "deportment": 0.2
+      }
+    ],
+    "insect_disease_problems": [],
+    "product": {
+      "_id": "5",
+      "name": [
+        "Napier Grass",
+        ""
+      ],
+      "description": [
+        "Can be used as feed for cows or can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 5.0,
+      "price_buy": -1.0,
+      "price_sell": 100.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Co_voi"
+    },
+    "final_product": {
+      "_id": "5",
+      "name": [
+        "Napier Grass",
+        ""
+      ],
+      "description": [
+        "Can be used as feed for cows or can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 5.0,
+      "price_buy": 0.0,
+      "price_sell": 0.0,
+      "lifetime": 0,
+      "shop_type_buy": "",
+      "shop_type_sell": "",
+      "ab": 0,
+      "ab_name": "Co_voi"
+    },
+    "waste": null
+  },
+  {
+    "_id": "2",
+    "item_id": 16,
+    "type": 1,
+    "doc_status": "active",
+    "name": [
+      "Corn Seedling",
+      ""
+    ],
+    "short_description": [
+      "Bắp Giống"
+    ],
+    "description": [
+      "Bắp Giống"
+    ],
+    "price_buy": 40.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "harvest_times": 300,
+    "exp_gain": 10,
+    "ab": 0,
+    "ab_name": "Cay_bap",
+    "feeding_duration": 120,
+    "nearby": 0,
+    "total_harvest": 3,
+    "is_tutorial": false,
+    "shop_type_buy": "1",
+    "shop_type_sell": "3",
+    "feeding": [
+      {
+        "_id": "2",
+        "type": 2,
+        "fk_feeding_id": "12",
+        "amount": 1.0
+      }
+    ],
+    "fertilizers": [
+      {
+        "_id": "11",
+        "material_id": {
+          "_id": "2",
+          "materials_id": "11",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "deportment": 0.2
+      }
+    ],
+    "insect_disease_problems": [],
+    "product": {
+      "_id": "6",
+      "name": [
+        "Corn",
+        ""
+      ],
+      "description": [
+        "Can be used as feed for quails and chickens or  can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 5.0,
+      "price_buy": -1.0,
+      "price_sell": 40.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Qua_bap"
+    },
+    "final_product": {
+      "_id": "6",
+      "name": [
+        "Corn",
+        ""
+      ],
+      "description": [
+        "Can be used as feed for quails and chickens or  can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 5.0,
+      "price_buy": 0.0,
+      "price_sell": 0.0,
+      "lifetime": 0,
+      "shop_type_buy": "",
+      "shop_type_sell": "",
+      "ab": 0,
+      "ab_name": "Qua_bap"
+    },
+    "waste": null
+  },
+  {
+    "_id": "3",
+    "item_id": 17,
+    "type": 2,
+    "doc_status": "active",
+    "name": [
+      "Layer Quail",
+      ""
+    ],
+    "short_description": [
+      "Chim Cút Giống"
+    ],
+    "description": [
+      "Chim Cút Giống"
+    ],
+    "price_buy": 1000.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "harvest_times": 300,
+    "exp_gain": 50,
+    "ab": 0,
+    "ab_name": "Con_chim_cut",
+    "feeding_duration": 120,
+    "nearby": 0,
+    "total_harvest": 3,
+    "is_tutorial": false,
+    "shop_type_buy": "4",
+    "shop_type_sell": "3",
+    "feeding": [
+      {
+        "_id": "4",
+        "type": 1,
+        "fk_feeding_id": "6",
+        "amount": 1.0
+      }
+    ],
+    "fertilizers": [],
+    "insect_disease_problems": [
+      {
+        "_id": "1",
+        "prevention_id": {
+          "_id": "1",
+          "materials_id": "13",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "treatment_id": {
+          "_id": "1",
+          "materials_id": "14",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "time_of_posibility": 0.3,
+        "probability": 0.5,
+        "time_to_die": 50.0,
+        "ab": 1,
+        "ab_name": "sau_benh"
+      }
+    ],
+    "product": {
+      "_id": "1",
+      "name": [
+        "Quail Eggs",
+        ""
+      ],
+      "description": [
+        "Can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 20.0,
+      "price_buy": -1.0,
+      "price_sell": 90.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Trung_cut"
+    },
+    "final_product": {
+      "_id": "3",
+      "name": [
+        "Quail Meat",
+        ""
+      ],
+      "description": [
+        "Can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 20.0,
+      "price_buy": -1.0,
+      "price_sell": 900.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Thit_chim_cut"
+    },
+    "waste": null
+  },
+  {
+    "_id": "4",
+    "item_id": 18,
+    "type": 2,
+    "doc_status": "active",
+    "name": [
+      "Layer Hen",
+      ""
+    ],
+    "short_description": [
+      "Gà Mái"
+    ],
+    "description": [
+      "Gà Mái"
+    ],
+    "price_buy": 2000.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "harvest_times": 300,
+    "exp_gain": 100,
+    "ab": 0,
+    "ab_name": "Con_ga_mai",
+    "feeding_duration": 120,
+    "nearby": 0,
+    "total_harvest": 3,
+    "is_tutorial": false,
+    "shop_type_buy": "4",
+    "shop_type_sell": "3",
+    "feeding": [
+      {
+        "_id": "5",
+        "type": 1,
+        "fk_feeding_id": "6",
+        "amount": 1.0
+      }
+    ],
+    "fertilizers": [],
+    "insect_disease_problems": [
+      {
+        "_id": "2",
+        "prevention_id": {
+          "_id": "2",
+          "materials_id": "13",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "treatment_id": {
+          "_id": "2",
+          "materials_id": "14",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "time_of_posibility": 0.3,
+        "probability": 0.5,
+        "time_to_die": 50.0,
+        "ab": 1,
+        "ab_name": "sau_benh"
+      }
+    ],
+    "product": {
+      "_id": "2",
+      "name": [
+        "Chicken Eggs",
+        ""
+      ],
+      "description": [
+        "Can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 20.0,
+      "price_buy": -1.0,
+      "price_sell": 180.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Trung_ga"
+    },
+    "final_product": {
+      "_id": "4",
+      "name": [
+        "Chicken Meat",
+        ""
+      ],
+      "description": [
+        "Can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 20.0,
+      "price_buy": -1.0,
+      "price_sell": 6000.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Thit_ga"
+    },
+    "waste": null
+  },
+  {
+    "_id": "5",
+    "item_id": 19,
+    "type": 2,
+    "doc_status": "active",
+    "name": [
+      "Dairy Cow",
+      ""
+    ],
+    "short_description": [
+      "Bò Sữa"
+    ],
+    "description": [
+      "Bò Sữa"
+    ],
+    "price_buy": 2000.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "harvest_times": 300,
+    "exp_gain": 200,
+    "ab": 0,
+    "ab_name": "Con_bo",
+    "feeding_duration": 120,
+    "nearby": 1,
+    "total_harvest": 3,
+    "is_tutorial": false,
+    "shop_type_buy": "4",
+    "shop_type_sell": "3",
+    "feeding": [
+      {
+        "_id": "6",
+        "type": 1,
+        "fk_feeding_id": "5",
+        "amount": 1.0
+      }
+    ],
+    "fertilizers": [],
+    "insect_disease_problems": [
+      {
+        "_id": "3",
+        "prevention_id": {
+          "_id": "3",
+          "materials_id": "13",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "treatment_id": {
+          "_id": "3",
+          "materials_id": "14",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "time_of_posibility": 0.3,
+        "probability": 0.5,
+        "time_to_die": 50.0,
+        "ab": 1,
+        "ab_name": "sau_benh"
+      }
+    ],
+    "product": {
+      "_id": "7",
+      "name": [
+        "Dairy Milk",
+        ""
+      ],
+      "description": [
+        "Can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 20.0,
+      "price_buy": -1.0,
+      "price_sell": 180.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Sua_bo"
+    },
+    "final_product": {
+      "_id": "8",
+      "name": [
+        "Dairy Beef",
+        ""
+      ],
+      "description": [
+        "Can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 20.0,
+      "price_buy": -1.0,
+      "price_sell": 40000.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Thit_bo"
+    },
+    "waste": null
+  },
+  {
+    "_id": "6",
+    "item_id": 20,
+    "type": 1,
+    "doc_status": "active",
+    "name": [
+      "Corn Seedling",
+      ""
+    ],
+    "short_description": [
+      "Bắp Giống (tutorial)"
+    ],
+    "description": [
+      "Bắp Giống (tutorial)"
+    ],
+    "price_buy": 0.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "harvest_times": 300,
+    "exp_gain": 0,
+    "ab": 0,
+    "ab_name": "Cay_bap",
+    "feeding_duration": 60,
+    "nearby": 0,
+    "total_harvest": 1,
+    "is_tutorial": true,
+    "shop_type_buy": "1",
+    "shop_type_sell": "3",
+    "feeding": [
+      {
+        "_id": "3",
+        "type": 2,
+        "fk_feeding_id": "12",
+        "amount": 1.0
+      }
+    ],
+    "fertilizers": [
+      {
+        "_id": "11",
+        "material_id": {
+          "_id": "3",
+          "materials_id": "11",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "deportment": 0.2
+      }
+    ],
+    "insect_disease_problems": [],
+    "product": {
+      "_id": null,
+      "name": null,
+      "description": null,
+      "unit": null,
+      "amount": 0.0,
+      "price_buy": 0.0,
+      "price_sell": 0.0,
+      "lifetime": 0,
+      "shop_type_buy": "",
+      "shop_type_sell": "",
+      "ab": 0,
+      "ab_name": null
+    },
+    "final_product": {
+      "_id": "6",
+      "name": [
+        "Corn",
+        ""
+      ],
+      "description": [
+        "Can be used as feed for quails and chickens or  can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 1.0,
+      "price_buy": -1.0,
+      "price_sell": 40.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Qua_bap"
+    },
+    "waste": null
+  },
+  {
+    "_id": "7",
+    "item_id": 21,
+    "type": 2,
+    "doc_status": "active",
+    "name": [
+      "Layer Quail",
+      ""
+    ],
+    "short_description": [
+      "Chim Cút Giống (tutorial)"
+    ],
+    "description": [
+      "Chim Cút Giống (tutorial)"
+    ],
+    "price_buy": 0.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "harvest_times": 120,
+    "exp_gain": 0,
+    "ab": 0,
+    "ab_name": "Con_chim_cut",
+    "feeding_duration": 60,
+    "nearby": 0,
+    "total_harvest": 1,
+    "is_tutorial": true,
+    "shop_type_buy": "4",
+    "shop_type_sell": "3",
+    "feeding": [
+      {
+        "_id": "7",
+        "type": 1,
+        "fk_feeding_id": "6",
+        "amount": 1.0
+      }
+    ],
+    "fertilizers": [],
+    "insect_disease_problems": [
+      {
+        "_id": "4",
+        "prevention_id": {
+          "_id": "4",
+          "materials_id": "13",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "treatment_id": {
+          "_id": "4",
+          "materials_id": "14",
+          "amount": 1.0,
+          "created_at": ""
+        },
+        "time_of_posibility": 0.65,
+        "probability": 1.0,
+        "time_to_die": 999999.0,
+        "ab": 1,
+        "ab_name": "sau_benh"
+      }
+    ],
+    "product": {
+      "_id": "1",
+      "name": [
+        "Quail Eggs",
+        ""
+      ],
+      "description": [
+        "Can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 1.0,
+      "price_buy": -1.0,
+      "price_sell": 90.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Trung_cut"
+    },
+    "final_product": {
+      "_id": "3",
+      "name": [
+        "Quail Meat",
+        ""
+      ],
+      "description": [
+        "Can be sold at the store to receive money"
+      ],
+      "unit": "",
+      "amount": 5.0,
+      "price_buy": -1.0,
+      "price_sell": 900.0,
+      "lifetime": 0,
+      "shop_type_buy": "3",
+      "shop_type_sell": "3",
+      "ab": 0,
+      "ab_name": "Thit_chim_cut"
+    },
+    "waste": null
+  }
+]

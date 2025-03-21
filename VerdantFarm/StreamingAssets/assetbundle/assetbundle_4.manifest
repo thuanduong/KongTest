@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3641286148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39ac7e144d6bc3d2b0351036fef762c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e48a97d0dc6159794f62ee9abd2c7585
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 39ac7e144d6bc3d2b0351036fef762c1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Nichietsu/Resources/assetbundle_4/Resource/Model/alpaca_run.fbx
+- Assets/Nichietsu/Resources/assetbundle_4/Animator/alpaca_animator.controller
+- Assets/Nichietsu/Resources/assetbundle_4/Resource/Model/alpaca_idle_C.fbx
+- Assets/Nichietsu/Resources/assetbundle_4/Resource/Model/alpaca_idle_B.fbx
+- Assets/Nichietsu/Resources/assetbundle_4/Resource/Textures/alpaca_tex.tga
+- Assets/Nichietsu/Resources/assetbundle_4/Resource/Materials/alpaca_material.mat
+- Assets/Nichietsu/Resources/assetbundle_4/Resource/Model/alpaca_idle_A.fbx
+- Assets/Nichietsu/Resources/assetbundle_4/Resource/Model/alpaca_skeleton.fbx
+Dependencies: []

@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "11",
+    "type": 2,
+    "sub_type": 1,
+    "doc_status": "active",
+    "name": [
+      "Fertilizer",
+      ""
+    ],
+    "description": [
+      "Increases plans growth rate"
+    ],
+    "price_buy": 0.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "processing_times": 0,
+    "exp_gain": 0,
+    "unit": "",
+    "ab": 0,
+    "ab_name": "PhanBon",
+    "shop_type_buy": "2",
+    "shop_type_sell": "3",
+    "ingredient": []
+  },
+  {
+    "_id": "12",
+    "type": 1,
+    "sub_type": 1,
+    "doc_status": "active",
+    "name": [
+      "Water",
+      ""
+    ],
+    "description": [
+      "Used for watering plants"
+    ],
+    "price_buy": 0.0,
+    "price_sell": 0.0,
+    "level": 0,
+    "processing_times": 0,
+    "exp_gain": 0,
+    "unit": "",
+    "ab": 0,
+    "ab_name": "Binh_tuoi",
+    "shop_type_buy": "",
+    "shop_type_sell": "",
+    "ingredient": []
+  },
+  {
+    "_id": "13",
+    "type": 3,
+    "sub_type": 2,
+    "doc_status": "active",
+    "name": [
+      "Animal Disease Prevention",
+      ""
+    ],
+    "description": [
+      "Used for preventing disease in animals"
+    ],
+    "price_buy": 0.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "processing_times": 0,
+    "exp_gain": 0,
+    "unit": "",
+    "ab": 0,
+    "ab_name": "Phong_benh_vat_nuoi",
+    "shop_type_buy": "2",
+    "shop_type_sell": "3",
+    "ingredient": []
+  },
+  {
+    "_id": "14",
+    "type": 4,
+    "sub_type": 2,
+    "doc_status": "active",
+    "name": [
+      "Animal Disease Treatment",
+      ""
+    ],
+    "description": [
+      "Used for treating disease in animals"
+    ],
+    "price_buy": 100.0,
+    "price_sell": -1.0,
+    "level": 0,
+    "processing_times": 0,
+    "exp_gain": 0,
+    "unit": "",
+    "ab": 0,
+    "ab_name": "Chua_benh_vat_nuoi",
+    "shop_type_buy": "2",
+    "shop_type_sell": "3",
+    "ingredient": []
+  }
+]

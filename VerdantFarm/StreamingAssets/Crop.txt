@@ -1,0 +1,623 @@
+﻿[
+  {
+    "_id": "6785yhy67-6412-4fde-9d7a-68111bbgthdyas",
+    "type": 2,
+    "doc_status": "active",
+    "name": [
+      "Cow",
+      "Con bò",
+      ""
+    ],
+    "short_description": [
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      "",
+      ""
+    ],
+    "price": 250000.0,
+    "level": 4,
+    "harvest_times": 90,
+    "exp_gain": 30,
+    "ab": 0,
+    "ab_name": "Con_bo",
+    "feeding_duration": 45,
+    "lifetime": 10,
+    "nearby": 1,
+    "total_harvest": 90, 
+    "is_tutorial": false,
+    "shop_type": "4",
+    "feeding": [
+    {
+      "_id": "3a31a454-cf11-4b6b-8498-39asd1aa104",
+      "type": 0,
+      "fk_feeding_id": "d6b8f1c4-s2d5-452d-45s1-9d5f7a2b1c4",
+      "amount": 1.0,
+    },
+    ],
+    "fertilizers": [
+    ],
+    "insect_disease_problems": [
+     {
+        "_id": "asdasdasd-0db6-4075-aa9b-93254b40ded",
+       "prevention_id": {
+          "_id": "sadsad-c6d1-4b28-a872-dsadsa",
+          "materials_id": "hfjs92j4-f03a-4ac8-b88b-kslod928jdo",
+          "amount": 5.0,
+          "created_at": null
+        },
+        "treatment_id": {
+          "_id": "sa545dsa-cb09-4a92-a689-sadsada213",
+          "materials_id": "kihkos098-f03a-4ac8-b88b-lufylufcy78",
+          "amount": 5.0,
+          "created_at": null
+        },
+        "time_of_posibility": 0.35,
+        "probability": 1,
+        "time_to_die": 10,
+        "ab": 1,
+        "ab_name": "Sau_benh"
+      },
+      {
+        "_id": "asdasdasd-0db6-4075-aa9b-93254b40ded",
+       "prevention_id": {
+          "_id": "sadsad-c6d1-4b28-a872-dsadsa",
+          "materials_id": "hfjs92j4-f03a-4ac8-b88b-kslod928jdo",
+          "amount": 5.0,
+          "created_at": null
+        },
+        "treatment_id": {
+          "_id": "sa545dsa-cb09-4a92-a689-sadsada213",
+          "materials_id": "kihkos098-f03a-4ac8-b88b-lufylufcy78",
+          "amount": 5.0,
+          "created_at": null
+        },
+        "time_of_posibility": 0.65,
+        "probability": 1,
+        "time_to_die": 10,
+        "ab": 1,
+        "ab_name": "Sau_benh"
+      }
+    ],
+    "product": {
+      "_id": "hsiifdjwlx-fea2-sads-sa42-2s5f2re85ds2",
+      "name": ["cow's milk","sữa bò"],
+      "description":[""],
+      "unit": "ml",
+      "amount": 1.0,
+      "unit_price": 2000.0,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Sua_bo"
+    },
+    "final_product": {
+      "_id": "jhsjaodh2-fea2-sads-sa42-2s5f2re85ds2",
+      "name": ["beef","thịt bò"],
+      "description":[""],
+      "unit": "kg",
+      "amount": 1.0,
+      "unit_price": 500000.0,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Thit_bo"
+    },
+    "waste": [
+    ],
+    "created_at": null
+  },
+  {
+    "_id": "falsetot-a1b8-4fde-4c8a-8e9a3f1b7c6",
+    "type": 1,
+    "doc_status": "active",
+    "name": [
+      "Corn",
+      "Cây bắp",
+      ""
+    ],
+    "short_description": [
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      "",
+      ""
+    ],
+    "price": 400,
+    "level": 1,
+    "harvest_times": 120,
+    "exp_gain": 100,
+    "ab": 0,
+    "ab_name": "Cay_bap",
+    "feeding_duration": 60,
+    "lifetime": 50,
+    "nearby": 0,
+    "total_harvest": 1, 
+    "is_tutorial": false,
+    "shop_type": "1",
+    "feeding":[
+    {
+      "_id": "3a31a454-cf11-4b6b-8498-398b1c1aa104",
+      "type": 1,
+      "fk_feeding_id": "393969bd-f03a-4ac8-b88b-ac2c26450dc8",
+      "amount": 1.0,
+    },
+    ],
+    "fertilizers": [
+    {
+        "_id": "d7614fa6-12c9-47f7-a009-6c3da1ea3832",
+        "material_id": {
+          "_id": "4bff6da5-251c-44f3-b050-1bfa24de16f9",
+          "materials_id": "887969bd-f03a-4ac8-b88b-ac2c2645dh28",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "deportment": 1
+      }
+    ],
+    "insect_disease_problems": [
+    ],
+    "final_product": {
+      "_id": "d6b8f1c4-2s5d-b2f6-45s1-9d5f7a2b1c4",
+      "name":  ["Corn","Qủa Bắp"],
+      "description": ["can be used as feed for quails and chickens or sell","Có thể dùng làm thức ăn cho chim cút, gà hoặc bán"],
+      "unit": "kg",
+      "amount": 5.0,
+      "unit_price": 450,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Cay_bap"
+    },
+    "waste": [
+    ],
+    "created_at": null
+  },
+  {
+    "_id": "c8a4d5e7-a1b8-4fde-4c8a-8e9a3f1b7c6",
+    "type": 1,
+    "doc_status": "active",
+    "name": [
+      "Corn ",
+      "Cây bắp",
+      ""
+    ],
+    "short_description": [
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      "",
+      ""
+    ],
+    "price": 0,
+    "level": 1,
+    "harvest_times": 120,
+    "exp_gain": 100,
+    "ab": 0,
+    "ab_name": "Cay_bap",
+    "feeding_duration": 60,
+    "lifetime": 50,
+    "nearby": 0,
+    "total_harvest": 1, 
+    "is_tutorial": true,
+    "shop_type": "1",
+    "feeding":[
+    {
+      "_id": "3a31a454-cf11-4b6b-8498-398b1c1aa104",
+      "type": 1,
+      "fk_feeding_id": "393969bd-f03a-4ac8-b88b-ac2c26450dc8",
+      "amount": 1.0,
+    },
+    ],
+    "fertilizers": [
+    {
+        "_id": "d7614fa6-12c9-47f7-a009-6c3da1ea3832",
+        "material_id": {
+          "_id": "4bff6da5-251c-44f3-b050-1bfa24de16f9",
+          "materials_id": "887969bd-f03a-4ac8-b88b-ac2c2645dh28",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "deportment": 1
+      }
+    ],
+    "insect_disease_problems": [
+    ],
+    "final_product": {
+      "_id": "d6b8f1c4-2s5d-b2f6-45s1-9d5f7a2b1c4",
+      "name":  ["Corn","Qủa Bắp"],
+      "description": ["can be used as feed for quails and chickens or sell","Có thể dùng làm thức ăn cho chim cút, gà hoặc bán"],
+      "unit": "kg",
+      "amount": 5.0,
+      "unit_price": 450,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Cay_bap"
+    },
+    "waste": [
+    ],
+    "created_at": null
+  },
+  {
+    "_id": "b6d3e2f4-d2e4-4fde-6b3d-2f3a7e1b4c6",
+    "type": 1,
+    "doc_status": "active",
+    "name": [
+      "Napier Grass",
+      "Cây cỏ voi ",
+      ""
+    ],
+    "short_description": [
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      "",
+      ""
+    ],
+    "price": 1000.0,
+    "level": 0,
+    "harvest_times": 60,
+    "exp_gain": 100,
+    "ab": 0,
+    "ab_name": "Cay_co_voi",
+    "feeding_duration": 30,
+    "lifetime": 50,
+    "nearby": 0,
+    "total_harvest": 1, 
+    "is_tutorial": false,
+    "shop_type": "4",
+    "feeding": [
+    {
+      "_id": "3a31a454-cf11-4b6b-8498-398b1c1aa104",
+      "type": 1,
+      "fk_feeding_id": "393969bd-f03a-4ac8-b88b-ac2c26450dc8",
+      "amount": 1.0,
+    },
+    ],
+    "fertilizers": [
+     {
+        "_id": "d7614fa6-12c9-47f7-a009-6c3da1ea3832",
+        "material_id": {
+          "_id": "4bff6da5-251c-44f3-b050-1bfa24de16f9",
+          "materials_id": "887969bd-f03a-4ac8-b88b-ac2c2645dh28",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "deportment": 0.4
+      }
+    ],
+    "insect_disease_problems": [
+    ], 
+    "final_product": {
+      "_id": "d6b8f1c4-s2d5-452d-45s1-9d5f7a2b1c4",
+      "name":  ["Napier grass","Cỏ voi "],
+      "description": ["can be used as feed for cows or sell","Có thể dùng làm thức ăn cho bò hoặc bán"],
+      "unit": "kg",
+      "amount": 1.0,
+      "unit_price": 1200.0,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Cay_co_voi"
+    },
+    "waste": [
+    ],
+    "created_at": null
+  },
+  {
+    "_id": "falsetut_1e3b_4c6a_5b8d_9f4a7c2e1b3",
+    "type": 2,
+    "doc_status": "active",
+    "name": [
+      "Quail",
+      "Chim Cút",
+      ""
+    ],
+    "short_description": [
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      "",
+      ""
+    ],
+    "price": 10000,
+    "level": 0,
+    "harvest_times": 55,
+    "exp_gain": 100,
+    "ab": 0,
+    "ab_name": "Con_chim_cut",
+    "feeding_duration": 60,
+    "lifetime": 70,
+    "nearby": 0,
+    "total_harvest": 3, 
+    "is_tutorial": false,
+    "shop_type": "4",
+    "feeding": [
+    {
+      "_id": "3a31a454-cf11-4b6b-8498-39asd1aa104",
+      "type": 2,
+      "fk_feeding_id": "d6b8f1c4-2s5d-b2f6-45s1-9d5f7a2b1c4",
+      "amount": 1.0,
+    },
+    ],
+    "fertilizers": [
+    ],
+    "insect_disease_problems": [
+      {
+        "_id": "asdasdasd-0db6-4075-aa9b-93254b40ded",
+       "prevention_id": {
+          "_id": "sadsad-c6d1-4b28-a872-dsadsa",
+          "materials_id": "hfjs92j4-f03a-4ac8-b88b-kslod928jdo",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "treatment_id": {
+          "_id": "sa545dsa-cb09-4a92-a689-sadsada213",
+          "materials_id": "2dk3ls9j-1a0v-5k8d-4s1j-c0dlsj2k3f9a",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "time_of_posibility": 0.75,
+        "probability": 100,
+        "time_to_die": 20,
+        "ab": 1,
+        "ab_name": "Sau_benh"
+      }
+    ],
+    "product": {
+      "_id": "a9d3b6e1_2f8c_4c7a_3b5d_6f1a4e9c2b7",
+      "name": ["quail eggs","trứng cút"],
+      "description":["sell","bán"],
+      "unit": "quả",
+      "amount": 3,
+      "unit_price": 1000,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Trung_cut"
+    }, 
+    "final_product": {
+      "_id": "s4f5s8a5-kf9w-b2f6-45s1-9d5f7a2b1c4",
+      "name":  ["quail meat","thit chim cut"],
+      "description": ["sell","bán"],
+      "unit": "kg",
+      "amount": 1.0,
+      "unit_price": 10000.0,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Thit_chim_cut"
+    },
+    "waste": [
+    ],
+    "created_at": null
+  },
+  {
+    "_id": "c7a2f9d4_1e3b_4c6a_5b8d_9f4a7c2e1b3",
+    "type": 2,
+    "doc_status": "active",
+    "name": [
+      "Quail ",
+      "Chim Cút ",
+      ""
+    ],
+    "short_description": [
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      "",
+      ""
+    ],
+    "price": 0,
+    "level": 0,
+    "harvest_times": 55,
+    "exp_gain": 100,
+    "ab": 0,
+    "ab_name": "Con_chim_cut",
+    "feeding_duration": 60,
+    "lifetime": 70,
+    "nearby": 0,
+    "total_harvest": 3, 
+    "is_tutorial": true,
+    "shop_type": "4",
+    "feeding": [
+    {
+      "_id": "3a31a454-cf11-4b6b-8498-39asd1aa104",
+      "type": 2,
+      "fk_feeding_id": "d6b8f1c4-2s5d-b2f6-45s1-9d5f7a2b1c4",
+      "amount": 1.0,
+    },
+    ],
+    "fertilizers": [
+    ],
+    "insect_disease_problems": [
+      {
+        "_id": "asdasdasd-0db6-4075-aa9b-93254b40ded",
+       "prevention_id": {
+          "_id": "sadsad-c6d1-4b28-a872-dsadsa",
+          "materials_id": "hfjs92j4-f03a-4ac8-b88b-kslod928jdo",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "treatment_id": {
+          "_id": "sa545dsa-cb09-4a92-a689-sadsada213",
+          "materials_id": "2dk3ls9j-1a0v-5k8d-4s1j-c0dlsj2k3f9a",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "time_of_posibility": 0.75,
+        "probability": 100,
+        "time_to_die": 20,
+        "ab": 1,
+        "ab_name": "Sau_benh"
+      }
+    ],
+    "product": {
+      "_id": "a9d3b6e1_2f8c_4c7a_3b5d_6f1a4e9c2b7",
+      "name": ["quail eggs","trứng cút"],
+      "description":["sell","bán"],
+      "unit": "quả",
+      "amount": 3,
+      "unit_price": 1000,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Trung_cut"
+    }, 
+    "final_product": {
+      "_id": "s4f5s8a5-kf9w-b2f6-45s1-9d5f7a2b1c4",
+      "name":  ["quail meat","thit chim cut"],
+      "description": ["sell","bán"],
+      "unit": "kg",
+      "amount": 1.0,
+      "unit_price": 10000.0,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Thit_chim_cut"
+    },
+    "waste": [
+    ],
+    "created_at": null
+  },
+  {
+    "_id": "d8a2b5c7_1f9e_4c3a_6b4d_9f7a1e5c2b3",
+    "type": 2,
+    "doc_status": "active",
+    "name": [
+      "Hen",
+      "Con gà mái",
+      ""
+    ],
+    "short_description": [
+      "",
+      "",
+      ""
+    ],
+    "description": [
+      "",
+      "",
+      ""
+    ],
+    "price": 50000.0,
+    "level": 0,
+    "harvest_times": 90,
+    "exp_gain": 100,
+    "ab": 0,
+    "ab_name": "Con_ga_mai",
+    "feeding_duration": 70,
+    "lifetime": 50,
+    "nearby": 0,
+    "total_harvest": 3, 
+    "is_tutorial": false,
+    "shop_type": "4",
+    "feeding": [
+    {
+      "_id": "f4c7b1d2_9e5a_4c8a_3b6d_1f2a9e7c3b5",
+      "type": 0,
+      "fk_feeding_id": "d6b8f1c4-2s5d-b2f6-45s1-9d5f7a2b1c4",
+      "amount": 1.0,
+    },
+    ],
+    "fertilizers": [
+      {
+        "_id": "a1f3e9c4_7b6d_4c2a_5b8d_9f4a1e3c7b6",
+        "material_id": {
+          "_id": "4bff6da5-251c-44f3-b050-1bfa24de16f9",
+          "materials_id": "hdks874j-f03a-4ac8-b88b-hfy98jdk3910",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "deportment": 0.5
+      }
+    ],
+    "insect_disease_problems": [
+     {
+        "_id": "asdasdasd-0db6-4075-aa9b-93254b40ded",
+       "prevention_id": {
+          "_id": "sadsad-c6d1-4b28-a872-dsadsa",
+          "materials_id": "hfjs92j4-f03a-4ac8-b88b-kslod928jdo",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "treatment_id": {
+          "_id": "sa545dsa-cb09-4a92-a689-sadsada213",
+          "materials_id": "kihkos098-f03a-4ac8-b88b-lufylufcy78",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "time_of_posibility": 0.35,
+        "probability": 1,
+        "time_to_die": 10,
+        "ab": 1,
+        "ab_name": "Sau_benh"
+      },
+      {
+        "_id": "asdasdasd-0db6-4075-aa9b-93254b40ded",
+       "prevention_id": {
+          "_id": "sadsad-c6d1-4b28-a872-dsadsa",
+          "materials_id": "hfjs92j4-f03a-4ac8-b88b-kslod928jdo",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "treatment_id": {
+          "_id": "sa545dsa-cb09-4a92-a689-sadsada213",
+          "materials_id": "kihkos098-f03a-4ac8-b88b-lufylufcy78",
+          "amount": 1.0,
+          "created_at": null
+        },
+        "time_of_posibility": 0.65,
+        "probability": 1,
+        "time_to_die": 10,
+        "ab": 1,
+        "ab_name": "Sau_benh"
+      }
+    ],
+    "product": {
+      "_id": "b9f2d7c1_4e3a_4c8a_5b2d_1f6a9e4c3b7",
+      "name": ["Chicken Eggs","trứng gà"],
+      "description":["sell","bán"],
+      "unit": "quả",
+      "amount": 1.0,
+      "unit_price": 2000.0,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Trung_ga"
+    },
+    "final_product": {
+      "_id": "2s5d48a6-2s5d-b2f6-9876-9d5f7a2b1c4",
+      "name":  ["Chicken","thịt gà"],
+      "description": ["sell","bán"],
+      "unit": "kg",
+      "amount": 1.0,
+      "unit_price": 80000.0,
+      "lifetime": 10,
+      "shop_type": "3",
+      "ab": 0,
+      "ab_name": "Thit_ga"
+    },
+    "waste": [
+    ],
+    "created_at": ""
+  },
+]
